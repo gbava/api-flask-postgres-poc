@@ -10,7 +10,7 @@ ENV PYTHONUNBUFFERED 1
 
 # Installing packages
 # Note: We need the following pkg dependencies for psycopg2 module if we use an Alpine image.
-RUN apk update && apk add postgresql-dev gcc python3-dev musl-dev sudo libffi-dev openssl-dev
+RUN apk update && apk add postgresql-dev build-base gcc python3-dev musl-dev sudo libffi-dev openssl-dev
 
 RUN addgroup -S $GROUP && adduser -G $GROUP -D -h $HOME $USER  \
         && mkdir -p /etc/sudoers.d \
@@ -27,7 +27,7 @@ USER $USER
 # Install API dependencies
 RUN pip3 install --no-cache-dir psycopg2
 COPY requirements.txt run.py $HOME
-RUN pip3 install --no-cache-dir -r requirements.txt
+RUN pip3 install --upgrade pip --no-cache-dir -r requirements.txt
 
 # Copy app code
 COPY src ./src

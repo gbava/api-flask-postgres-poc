@@ -1,0 +1,888 @@
+uuid,survived,passengerClass,name,sex,age,siblingsOrSpousesAboard,parentsOrChildrenAboard,fare
+566d44f6-8201-4748-8cdd-51a0b691b049,0,3,Mr. Owen Harris Braund,male,22,1,0,7.25
+be96f29c-3489-4812-9166-b3a0b48ca26d,1,1,Mrs. John Bradley (Florence Briggs Thayer) Cumings,female,38,1,0,71.2833
+f605f7e0-86da-4de6-9dd6-dbc2bd252ffd,0,3,Miss. Laina Heikkinen,female,26,0,0,7.925
+ab015e55-8645-4a15-9a61-9d864265a735,0,1,Mrs. Jacques Heath (Lily May Peel) Futrelle,female,35,1,0,53.1
+78aebabf-ce0b-4bb0-bda5-0932bed0e1d1,0,3,Mr. William Henry Allen,male,35,0,0,8.05
+e6b65fab-f141-4005-a54c-533d88dd75f7,0,3,Mr. James Moran,male,27,0,0,8.4583
+d9af1070-4e87-419c-93ed-fa4ee57cb28e,1,1,Mr. Timothy J McCarthy,male,54,0,0,51.8625
+0e64af75-7d62-4448-821b-cb19f187d112,0,3,Master. Gosta Leonard Palsson,male,2,3,1,21.075
+29bf58df-980e-46cb-94e4-919dfd499dfb,1,3,Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson,female,27,0,2,11.1333
+c97d6ced-a9ad-41ae-82fb-8898ecb5a575,0,2,Mrs. Nicholas (Adele Achem) Nasser,female,14,1,0,30.0708
+ea95974e-2c6d-4a9e-a715-584ae48bb071,0,3,Miss. Marguerite Rut Sandstrom,female,4,1,1,16.7
+1f3d844b-234d-43a3-86b9-5c1b4df6af37,0,1,Miss. Elizabeth Bonnell,female,58,0,0,26.55
+ef4e9ade-8036-4bb4-b824-e076f4ba1208,0,3,Mr. William Henry Saundercock,male,20,0,0,8.05
+77d2ab5e-8aa1-4d5f-bb71-03197b00599b,1,3,Mr. Anders Johan Andersson,male,39,1,5,31.275
+fb67ba4a-e326-4c71-bb54-c6aebf77cd30,0,3,Miss. Hulda Amanda Adolfina Vestrom,female,14,0,0,7.8542
+db193b2b-a166-44f5-8dc8-3876eddeaac9,1,2,Mrs. (Mary D Kingcome) Hewlett,female,55,0,0,16
+d4e927f1-f586-4392-8109-1ccddfeca221,0,3,Master. Eugene Rice,male,2,4,1,29.125
+b28280b4-579f-4095-89f9-7f0d76152b99,0,2,Mr. Charles Eugene Williams,male,23,0,0,13
+f0d78645-3fa1-491e-b426-5052079342ba,0,3,Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke,female,31,1,0,18
+2ac4b1c0-ad4d-4226-89e8-981642475e3e,0,3,Mrs. Fatima Masselmani,female,22,0,0,7.225
+4b4c9062-408b-4a5f-b4cd-ab316be8a977,1,2,Mr. Joseph J Fynney,male,35,0,0,26
+9ada6433-3129-49ee-b1b3-06a8f42f4348,0,2,Mr. Lawrence Beesley,male,34,0,0,13
+5cfae9eb-29a3-4283-988b-e27e9b7df756,1,3,Miss. Anna McGowan,female,15,0,0,8.0292
+6cb3566a-c3fa-4e03-a049-276984942490,0,1,Mr. William Thompson Sloper,male,28,0,0,35.5
+a5ccf078-190e-4919-9c3e-07f921e24ad1,0,3,Miss. Torborg Danira Palsson,female,8,3,1,21.075
+100e5f08-e311-4680-9236-0e2e4c2e865a,0,3,Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund,female,38,1,5,31.3875
+b54c79fe-3c2a-4e9e-a2b5-42fac8d4611b,0,3,Mr. Farred Chehab Emir,male,26,0,0,7.225
+cb1e62df-7d5d-4aeb-9e4e-f01e9ec184e5,1,1,Mr. Charles Alexander Fortune,male,19,3,2,263
+2a960b06-fdbf-4e13-b6ff-b117ce8342e3,0,3,Miss. Ellen O'Dwyer,female,24,0,0,7.8792
+6ee77277-12ad-477b-ad97-10df7e223702,1,3,Mr. Lalio Todoroff,male,23,0,0,7.8958
+f780e298-0357-4138-a6d3-9361d7a34e16,0,1,Don. Manuel E Uruchurtu,male,40,0,0,27.7208
+20213eef-766d-4abe-bfe4-7a22836773d1,0,1,Mrs. William Augustus (Marie Eugenie) Spencer,female,48,1,0,146.5208
+56f79eea-9c5c-41ec-a31f-4f5a40d225a0,0,3,Miss. Mary Agatha Glynn,female,18,0,0,7.75
+f109bcb1-b68d-4f11-b223-9ad829967473,0,2,Mr. Edward H Wheadon,male,66,0,0,10.5
+8d42e33f-a223-4dd5-b2a1-4227e301e43c,1,1,Mr. Edgar Joseph Meyer,male,28,1,0,82.1708
+20ec8c5a-1504-4f9c-aaa0-e291e34e85d9,0,1,Mr. Alexander Oskar Holverson,male,42,1,0,52
+aae3ea4c-98da-480f-90e2-0ed3684e116c,1,3,Mr. Hanna Mamee,male,18,0,0,7.2292
+681006d0-5d11-4959-ba2e-06c6dabf81e5,0,3,Mr. Ernest Charles Cann,male,21,0,0,8.05
+d82afb32-c8d0-46cf-9088-1e80836ed374,0,3,Miss. Augusta Maria Vander Planke,female,18,2,0,18
+b7d266e5-e471-4d6e-9048-5f4e0e615818,0,3,Miss. Jamila Nicola-Yarred,female,14,1,0,11.2417
+687f20a3-b302-4681-a5a3-2ee456315937,0,3,Mrs. Johan (Johanna Persdotter Larsson) Ahlin,female,40,1,0,9.475
+13069782-c06f-4f9f-b930-defdf69256a2,1,2,Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin,female,27,1,0,21
+08af8459-a5c6-40f3-8da4-fddc6fcc7f80,0,2,Miss. Simonne Marie Anne Andree Laroche,female,3,1,2,41.5792
+d54f5204-9df9-468d-9770-1d640a7b3fc2,1,3,Miss. Margaret Delia Devaney,female,19,0,0,7.8792
+adf931b3-a5ca-47c2-8ade-cb0f08c1fe97,0,3,Mr. William John Rogers,male,30,0,0,8.05
+564a1f14-6e54-4b10-94db-fc6ea2729e1d,0,3,Mr. Denis Lennon,male,20,1,0,15.5
+105402f5-ebe4-49a6-979f-64d9200b9a75,0,3,Miss. Bridget O'Driscoll,female,27,0,0,7.75
+b71181d9-8038-4192-8390-0ff7c20d8db4,0,3,Mr. Youssef Samaan,male,16,2,0,21.6792
+292a458a-bbfa-4ea9-8ec9-adc2704f96b3,1,3,Mrs. Josef (Josefine Franchi) Arnold-Franchi,female,18,1,0,17.8
+b178cb91-a4a8-4f67-a299-50e8bf08ad65,0,3,Master. Juha Niilo Panula,male,7,4,1,39.6875
+1d86a054-5e80-45e6-b212-98c320af0d06,1,3,Mr. Richard Cater Nosworthy,male,21,0,0,7.8
+dc007fab-7965-4adf-9db6-aa8bcfd92fd0,0,1,Mrs. Henry Sleeper (Myna Haxtun) Harper,female,49,1,0,76.7292
+2f4bf44f-1998-47cc-a3b0-3ba0704bb19e,0,2,Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,female,29,1,0,26
+6ba427d8-4b1e-4878-9139-3c0ae5315985,0,1,Mr. Engelhart Cornelius Ostby,male,65,0,1,61.9792
+8075e5b7-c317-4020-b267-abcf862de769,0,1,Mr. Hugh Woolner,male,46,0,0,35.5
+4ed50581-276d-4039-b745-10724eb8b3e2,1,2,Miss. Emily Rugg,female,21,0,0,10.5
+4a5d21d6-96d6-4ba0-81b8-38f2675458d3,0,3,Mr. Mansouer Novel,male,28.5,0,0,7.2292
+690910e6-c4b0-499f-8ba1-03cfccd7bd8e,1,2,Miss. Constance Mirium West,female,5,1,2,27.75
+b0076c84-2e11-47f1-b3d4-06f39665b649,0,3,Master. William Frederick Goodwin,male,11,5,2,46.9
+d8fbe7ae-341f-4b98-bbd4-f579154feac5,0,3,Mr. Orsen Sirayanian,male,22,0,0,7.2292
+eacd3157-d85b-43db-ae83-433a5e7121fc,0,1,Miss. Amelie Icard,female,38,0,0,80
+c721ae84-0b1c-4737-b02e-4d5edd968b5e,0,1,Mr. Henry Birkhardt Harris,male,45,1,0,83.475
+f9ad1dea-5215-4c45-9c1c-00eb619d935c,1,3,Master. Harald Skoog,male,4,3,2,27.9
+283a228f-9915-4647-9a13-5144bc8394d7,0,1,Mr. Albert A Stewart,male,64,0,0,27.7208
+70a6a45d-fa4c-484e-8fae-dd49d7f15776,1,3,Master. Gerios Moubarek,male,7,1,1,15.2458
+191dfa6a-b168-40af-a025-a20bd0732c4c,0,2,Mrs. (Elizabeth Ramell) Nye,female,29,0,0,10.5
+acbe9a21-2ea3-490e-83e7-c7d6b813835d,0,3,Mr. Ernest James Crease,male,19,0,0,8.1583
+f3260eed-be1a-4288-b743-1ee7683201e4,0,3,Miss. Erna Alexandra Andersson,female,17,4,2,7.925
+75934080-e7f6-4112-b0e2-e2e43c609c4b,0,3,Mr. Vincenz Kink,male,26,2,0,8.6625
+192488b1-a934-4c08-aa9f-18c33f048e3f,1,2,Mr. Stephen Curnow Jenkin,male,32,0,0,10.5
+9703ad2e-cfd4-44b3-9474-f25ce9e24c29,0,3,Miss. Lillian Amy Goodwin,female,16,5,2,46.9
+e11099de-da8e-4716-b980-a8672a857b73,1,2,Mr. Ambrose Jr Hood,male,21,0,0,73.5
+b9233c45-7fea-48b7-9d63-277b8123eb3e,0,3,Mr. Apostolos Chronopoulos,male,26,1,0,14.4542
+82546790-f43f-47a5-ab55-fed18181803d,0,3,Mr. Lee Bing,male,32,0,0,56.4958
+0100e171-6084-4459-b281-d8e93d3d5176,0,3,Mr. Sigurd Hansen Moen,male,25,0,0,7.65
+b23eb3c7-8fd1-4ade-98ac-e2943edf460a,0,3,Mr. Ivan Staneff,male,23,0,0,7.8958
+9af23b38-23fb-46da-8e65-7e8021097339,1,3,Mr. Rahamin Haim Moutal,male,28,0,0,8.05
+2c7b69d1-d61d-4a57-aff1-5abb9b1cce2e,0,2,Master. Alden Gates Caldwell,male,0.83,0,2,29
+812ff27a-d537-4088-9890-d811f2db4f20,1,3,Miss. Elizabeth Dowdell,female,30,0,0,12.475
+8551e754-a77b-41a6-aa31-1ea79bddede3,0,3,Mr. Achille Waelens,male,22,0,0,9
+8d0f966e-590c-4e8a-950b-9f80280fdd16,0,3,Mr. Jan Baptist Sheerlinck,male,29,0,0,9.5
+87051faa-e6bc-41d1-8424-401975a025d1,0,3,Miss. Brigdet Delia McDermott,female,31,0,0,7.7875
+c41df2c9-9b12-4b4e-aad3-a920b42e94f0,0,1,Mr. Francisco M Carrau,male,28,0,0,47.1
+7389e571-653f-4970-be89-76594f27b005,1,2,Miss. Bertha Ilett,female,17,0,0,10.5
+b7ba7db6-4f38-41aa-86b3-451acc8b2616,0,3,Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom,female,33,3,0,15.85
+5632699f-1efa-436a-8bba-7704fcd8509a,1,3,Mr. William Neal Ford,male,16,1,3,34.375
+980ceec7-aaa1-4b0e-b323-b03ff4a85bd4,0,3,Mr. Selman Francis Slocovski,male,20,0,0,8.05
+56efa759-f849-457a-9626-f8aa48f291a4,0,1,Miss. Mabel Helen Fortune,female,23,3,2,263
+b62db9b4-6250-46f0-a5cd-ab6df5408777,0,3,Mr. Francesco Celotti,male,24,0,0,8.05
+c75cb71c-8c9f-4ab7-b2cf-b49fd1d8ea49,0,3,Mr. Emil Christmann,male,29,0,0,8.05
+e1ba316f-6012-449d-8d1f-87d370df8194,1,3,Mr. Paul Edvin Andreasson,male,20,0,0,7.8542
+4f18df46-9c7b-40e6-b71f-840c380448d6,0,1,Mr. Herbert Fuller Chaffee,male,46,1,0,61.175
+33bcb82b-a355-42d3-bb9b-72edefbabef5,1,3,Mr. Bertram Frank Dean,male,26,1,2,20.575
+e69c3ae3-5870-4d73-9e89-99f2e62dbc8c,0,3,Mr. Daniel Coxon,male,59,0,0,7.25
+dc84260d-08cd-4eaf-a1f0-ae85588fd984,0,3,Mr. Charles Joseph Shorney,male,22,0,0,8.05
+b253509b-1eaa-4b39-a842-06bf6eb9b692,0,1,Mr. George B Goldschmidt,male,71,0,0,34.6542
+88e6b498-6304-4c41-a6e3-cdd8a7efc546,0,1,Mr. William Bertram Greenfield,male,23,0,1,63.3583
+ea32c585-bf9d-4a0b-b0fc-afa498d8e716,1,2,Mrs. John T (Ada Julia Bone) Doling,female,34,0,1,23
+39703505-d4b6-4ea9-b904-7698855daa34,0,2,Mr. Sinai Kantor,male,34,1,0,26
+f42e6832-8688-42a7-9c71-4272069630cd,1,3,Miss. Matilda Petranec,female,28,0,0,7.8958
+8b83e173-2ab4-4e2b-a37f-0bc4d79bd1f9,0,3,Mr. Pastcho Petroff,male,29,0,0,7.8958
+74ed636a-8897-4cef-9340-425ec6f19c91,0,1,Mr. Richard Frasar White,male,21,0,1,77.2875
+dcd41fea-a50b-4e79-90a9-1e69740093f3,0,3,Mr. Gustaf Joel Johansson,male,33,0,0,8.6542
+1189cbdd-27fa-4bec-8e81-88dd28fb688c,0,3,Mr. Anders Vilhelm Gustafsson,male,37,2,0,7.925
+a2398701-8e26-4ed9-9612-bb25a699c21a,1,3,Mr. Stoytcho Mionoff,male,28,0,0,7.8958
+2d7cbe48-8fa2-44a3-8bb1-7e67e4d704e7,0,3,Miss. Anna Kristine Salkjelsvik,female,21,0,0,7.65
+3e9982d2-781b-44c5-9326-2d7a37df56b1,1,3,Mr. Albert Johan Moss,male,29,0,0,7.775
+b39e5503-c96c-4009-b3b8-5ce0bca918c3,0,3,Mr. Tido Rekic,male,38,0,0,7.8958
+b01cfbac-e795-4561-b9da-278f3e57f4a5,0,3,Miss. Bertha Moran,female,28,1,0,24.15
+57824e1f-0da2-44a8-b76c-5b35ea273d3b,0,1,Mr. Walter Chamberlain Porter,male,47,0,0,52
+13c83497-875e-40e1-b5c3-84c47c626248,0,3,Miss. Hileni Zabour,female,14.5,1,0,14.4542
+e6e4a674-da7d-4752-a3c1-3da82ecea6f0,1,3,Mr. David John Barton,male,22,0,0,8.05
+63acc17c-fef2-4988-b007-322e4a105e07,0,3,Miss. Katriina Jussila,female,20,1,0,9.825
+7569d89c-db65-404b-9458-8c862f3c340c,1,3,Miss. Malake Attalah,female,17,0,0,14.4583
+d8cb5516-a91e-4312-a22e-c0eed05db369,0,3,Mr. Edvard Pekoniemi,male,21,0,0,7.925
+583d9f67-d829-49fa-beb2-fe2e19ff6f37,0,3,Mr. Patrick Connors,male,70.5,0,0,7.75
+bf36beb6-3d11-4fce-99f4-71cb68242143,0,2,Mr. William John Robert Turpin,male,29,1,0,21
+6b1e39d1-5858-4c16-9dba-cac271dc7a14,0,1,Mr. Quigg Edmond Baxter,male,24,0,1,247.5208
+6c491b38-1f4c-4d57-84b8-4f739a91855f,1,3,Miss. Ellis Anna Maria Andersson,female,2,4,2,31.275
+8e222de1-f231-42bf-82d2-3d7cb7a8428a,0,2,Mr. Stanley George Hickman,male,21,2,0,73.5
+37a9e5b8-56e5-4c7d-a0bd-4ee8b6640c11,1,3,Mr. Leonard Charles Moore,male,19,0,0,8.05
+2a8fb92f-4bb1-4a7a-bdc5-cda2eba74d52,0,2,Mr. Nicholas Nasser,male,32.5,1,0,30.0708
+4f0310c3-de31-409b-aed2-811040c1d242,0,2,Miss. Susan Webber,female,32.5,0,0,13
+7e9c1193-184e-4bfb-9d84-27455aa7a3a8,0,1,Mr. Percival Wayland White,male,54,0,1,77.2875
+85a7cc66-5fb2-4794-b014-9b107b238b57,0,3,Master. Elias Nicola-Yarred,male,12,1,0,11.2417
+d603895d-e3fd-447f-ba70-9a2dee9b4b79,1,3,Mr. Martin McMahon,male,19,0,0,7.75
+4036edf9-7ec8-4504-bc96-bdcc48d836d0,0,3,Mr. Fridtjof Arne Madsen,male,24,0,0,7.1417
+81faec75-2fce-48b7-8297-ba5d0ff53002,1,3,Miss. Anna Peter,female,2,1,1,22.3583
+90ccbf86-615e-4a39-85d9-8c4ad86fd120,0,3,Mr. Johan Ekstrom,male,45,0,0,6.975
+876fe9e0-e66d-488e-ac59-0f189efddd70,0,3,Mr. Jozef Drazenoic,male,33,0,0,7.8958
+cd540643-ec99-4c10-9249-0b35153aac2f,0,3,Mr. Domingos Fernandeo Coelho,male,20,0,0,7.05
+d7c22fe6-9905-4621-8586-023291fea757,0,3,Mrs. Alexander A (Grace Charity Laury) Robins,female,47,1,0,14.5
+1ef8e286-928a-43b0-9764-f0be025595df,1,2,Mrs. Leopold (Mathilde Francoise Pede) Weisz,female,29,1,0,26
+3437c506-91dd-4743-91a2-f78055f8f322,0,2,Mr. Samuel James Hayden Sobey,male,25,0,0,13
+a8a43192-465b-4167-aa94-b751d2b67f03,1,2,Mr. Emile Richard,male,23,0,0,15.0458
+d1c57a45-1140-47d8-9ba6-9ecb6659fb19,0,1,Miss. Helen Monypeny Newsom,female,19,0,2,26.2833
+c5b4578a-e0b0-4439-b8a7-ccc2412bb3b4,0,1,Mr. Jacques Heath Futrelle,male,37,1,0,53.1
+c1227f21-aca7-4a53-b041-0d7a1ddd486e,0,3,Mr. Olaf Elon Osen,male,16,0,0,9.2167
+d8c0f749-fb9a-4b7a-97e0-c9778e80ec0d,0,1,Mr. Victor Giglio,male,24,0,0,79.2
+c0f9d4b0-93aa-4a33-855c-737fad27cc4f,1,3,Mrs. Joseph (Sultana) Boulos,female,40,0,2,15.2458
+d6489220-6eac-4191-8d2d-73ecb4ea4ce2,0,3,Miss. Anna Sofia Nysten,female,22,0,0,7.75
+83723adb-b251-4525-89f2-feb84fd6b115,1,3,Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen,female,24,1,0,15.85
+56a351eb-ad69-436e-9d8e-850518ed61b2,0,3,Mr. Jeremiah Burke,male,19,0,0,6.75
+5b7b2c99-21ea-4792-8cdb-1f142789e41e,0,2,Mr. Edgardo Samuel Andrew,male,18,0,0,11.5
+4154f556-1216-438b-8768-8813ac2855a2,0,2,Mr. Joseph Charles Nicholls,male,19,1,1,36.75
+43313a08-8fb5-42e0-97af-00cdb36fbb75,0,3,Mr. August Edvard Andersson,male,27,0,0,7.7958
+47b721e4-039b-4af7-82df-00cf0b603bbe,1,3,Miss. Robina Maggie Ford,female,9,2,2,34.375
+26248e83-02b9-49b6-a360-90da98dd2c5e,0,2,Mr. Michel Navratil,male,36.5,0,2,26
+3d151730-af0c-451a-8e94-8665eca99f2a,1,2,Rev. Thomas Roussel Davids Byles,male,42,0,0,13
+49ffbff9-f9b5-4668-a1f3-a71d6225eeef,0,2,Rev. Robert James Bateman,male,51,0,0,12.525
+cb71fd57-ec5d-4935-8010-7065fc190aea,0,1,Mrs. Thomas (Edith Wearne) Pears,female,22,1,0,66.6
+99a867ab-0300-44f9-9355-e5fab9d07152,0,3,Mr. Alfonzo Meo,male,55.5,0,0,8.05
+612cf379-1a75-4e26-a95f-12609a7598d5,0,3,Mr. Austin Blyler van Billiard,male,40.5,0,2,14.5
+2c827b92-f352-44d6-b515-5f85e11b718f,1,3,Mr. Ole Martin Olsen,male,27,0,0,7.3125
+5322be85-8665-4cb6-9911-8746a8e3eccb,0,1,Mr. Charles Duane Williams,male,51,0,1,61.3792
+6b6f6a4b-03b4-40d3-854b-5b4110cfc7f3,1,3,Miss. Katherine Gilnagh,female,16,0,0,7.7333
+711b3ccd-3a86-422b-bb40-a53244be0593,0,3,Mr. Harry Corn,male,30,0,0,8.05
+825a7748-4ea5-4660-a217-046c4ded8e75,0,3,Mr. Mile Smiljanic,male,37,0,0,8.6625
+21207f76-a279-468a-9741-d5e148337016,0,3,Master. Thomas Henry Sage,male,5,8,2,69.55
+fb2bb4de-dac2-4bd0-b45f-9f5f0ed032a0,0,3,Mr. John Hatfield Cribb,male,44,0,1,16.1
+82ad3533-37cc-46c6-97f3-00e0d19a71df,1,2,Mrs. James (Elizabeth Inglis Milne) Watt,female,40,0,0,15.75
+d1ea00df-20f2-4de4-9c85-a303bd039cae,0,3,Mr. John Viktor Bengtsson,male,26,0,0,7.775
+081eb348-3e00-4985-8a6c-43ce46d48117,1,3,Mr. Jovo Calic,male,17,0,0,8.6625
+0a079d3e-9701-4975-8071-82b7bacea2bd,0,3,Master. Eino Viljami Panula,male,1,4,1,39.6875
+b4fed6d5-d4e2-4266-aca6-68b856d48974,0,3,Master. Frank John William Goldsmith,male,9,0,2,20.525
+13c5e609-9356-42aa-b072-5807feab2e7c,0,1,Mrs. (Edith Martha Bowerman) Chibnall,female,48,0,1,55
+12c093c7-7222-47f2-b7a0-ec81555a7d13,0,3,Mrs. William (Anna Bernhardina Karlsson) Skoog,female,45,1,4,27.9
+e360357e-7d20-4910-a2b8-f5e027329597,1,1,Mr. John D Baumann,male,60,0,0,25.925
+03288a04-0f2a-49e5-bbef-95dde6037083,0,3,Mr. Lee Ling,male,28,0,0,56.4958
+6ed53bf5-1be2-4e04-a357-9823874322a4,1,1,Mr. Wyckoff Van der hoef,male,61,0,0,33.5
+a917c99d-2c65-41fe-a86c-ad788b24f697,0,3,Master. Arthur Rice,male,4,4,1,29.125
+8a12cf99-65cd-4104-be9f-de9b924b28ec,0,3,Miss. Eleanor Ileen Johnson,female,1,1,1,11.1333
+fefd239e-f72f-4e7f-bd37-550f2a747349,0,3,Mr. Antti Wilhelm Sivola,male,21,0,0,7.925
+4928cfe9-a847-480e-ae1c-5f532a3eaf8b,0,1,Mr. James Clinch Smith,male,56,0,0,30.6958
+7b597bf2-d923-40d6-b6a0-cf59b94308bb,1,3,Mr. Klas Albin Klasen,male,18,1,1,7.8542
+59826d9e-f84d-4fe0-8fea-a4f556729ae5,0,3,Master. Henry Forbes Lefebre,male,5,3,1,25.4667
+8191aa83-147e-4057-a30e-637ff98f27e5,1,1,Miss. Ann Elizabeth Isham,female,50,0,0,28.7125
+c32ee0ec-ba48-415b-8ecc-2d1990785392,0,2,Mr. Reginald Hale,male,30,0,0,13
+c44994c6-6078-4693-a9ca-2f6f640a13af,0,3,Mr. Lionel Leonard,male,36,0,0,0
+60115a89-5fa3-439e-8739-8472468a2145,0,3,Miss. Constance Gladys Sage,female,8,8,2,69.55
+a9d8a915-99fb-463f-beae-d7e0eb727454,0,2,Mr. Rene Pernot,male,39,0,0,15.05
+b2ea69b6-3fa2-4514-8f06-8c35da7cf143,1,3,Master. Clarence Gustaf Hugo Asplund,male,9,4,2,31.3875
+dc5b369f-de9e-4b84-a133-e5bd09547319,0,2,Master. Richard F Becker,male,1,2,1,39
+7a1379bf-8be7-44d0-884c-e5b17efce088,1,3,Miss. Luise Gretchen Kink-Heilmann,female,4,0,2,22.025
+f10dee72-e5b9-4054-bd84-229d479ddc80,0,1,Mr. Hugh Roscoe Rood,male,39,0,0,50
+bdddfa5f-ea96-49a7-8cab-65c14543d781,0,3,Mrs. Thomas (Johanna Godfrey) O'Brien,female,26,1,0,15.5
+21916b9e-651f-4e33-8a7c-ae7aa01042ad,0,1,Mr. Charles Hallace Romaine,male,45,0,0,26.55
+36a58532-2e27-47c5-aaba-c2997383997a,0,3,Mr. John Bourke,male,40,1,1,15.5
+c6c4956d-e445-40de-85a4-a1999dcad139,1,3,Mr. Stjepan Turcin,male,36,0,0,7.8958
+a35faa32-57b6-4296-b4a4-a5c732302d5d,0,2,Mrs. (Rosa) Pinsky,female,32,0,0,13
+3d592557-de82-4a44-b9a7-41ab2400df02,1,2,Mr. William Carbines,male,19,0,0,13
+0bba4318-b03a-4462-836b-bc74637aaaa5,0,3,Miss. Carla Christine Nielsine Andersen-Jensen,female,19,1,0,7.8542
+6ab9378c-52b8-45f5-b1a9-18f29925ceb1,0,2,Master. Michel M Navratil,male,3,1,1,26
+09f54acc-70f2-4551-874a-52b8a515e5f3,0,1,Mrs. James Joseph (Margaret Tobin) Brown,female,44,0,0,27.7208
+deb70838-3cbe-4f85-a2f0-3788e8f88a38,0,1,Miss. Elise Lurette,female,58,0,0,146.5208
+b61d7f7d-fea3-4f2c-af7f-e4bd2ea06933,1,3,Mr. Robert Mernagh,male,28,0,0,7.75
+4d24bbbf-9ee5-4d19-bd50-a09e57dcf514,0,3,Mr. Karl Siegwart Andreas Olsen,male,42,0,1,8.4042
+f4d80166-4271-4bf2-bdd3-f4f05f807806,1,3,Miss. Margaret Madigan,female,21,0,0,7.75
+cfd616c3-85aa-445a-9796-2a84f4db8307,0,2,Miss. Henriette Yrois,female,24,0,0,13
+1539fea3-a313-4aa6-a70d-d172266976f0,0,3,Mr. Nestor Cyriel Vande Walle,male,28,0,0,9.5
+4b029fb3-5a55-41a9-bafa-679f4d59b875,0,3,Mr. Frederick Sage,male,17,8,2,69.55
+77a3a0b8-b942-4caa-8fae-0f47fec197c6,0,3,Mr. Jakob Alfred Johanson,male,34,0,0,6.4958
+eceec699-0680-41c6-9d65-5364cf056b00,1,3,Mr. Gerious Youseff,male,45.5,0,0,7.225
+106c7463-fe94-45b3-b479-22f8ee68cf28,0,3,Mr. Gurshon Cohen,male,18,0,0,8.05
+80bfbf9f-56b7-4d84-bb5b-8f3ad351be9d,1,3,Miss. Telma Matilda Strom,female,2,0,1,10.4625
+ef49852a-c6db-41d2-ae20-0df77a155409,0,3,Mr. Karl Alfred Backstrom,male,32,1,0,15.85
+472c5e5e-1bc6-4fa5-b9c7-1c5ab919f485,0,3,Mr. Nassef Cassem Albimona,male,26,0,0,18.7875
+d7a24e38-24ff-43e5-a3ba-7171aa2c0014,0,3,Miss. Helen Carr,female,16,0,0,7.75
+900cb5ab-6ab3-46fa-9cc6-b56e8196949d,0,1,Mr. Henry Blank,male,40,0,0,31
+0d209420-2383-49bc-af15-99500b8f48c2,1,3,Mr. Ahmed Ali,male,24,0,0,7.05
+aebc12c4-76c2-4f8d-9b47-d6aa9e2428a6,0,2,Miss. Clear Annie Cameron,female,35,0,0,21
+ccb6a1ca-27fe-4e67-83a3-22b46d36ab5e,0,3,Mr. John Henry Perkin,male,22,0,0,7.25
+e42add59-2876-4b78-b6d7-08bbc2d457e8,1,2,Mr. Hans Kristensen Givard,male,30,0,0,13
+b330e860-6b6e-40aa-8bc8-71a998d68c83,0,3,Mr. Philip Kiernan,male,22,1,0,7.75
+de5be442-1b7f-4db0-ad3e-d97c66cae500,0,1,Miss. Madeleine Newell,female,31,1,0,113.275
+08ed0796-5619-44e5-8152-74668fee071f,0,3,Miss. Eliina Honkanen,female,27,0,0,7.925
+f76ceb7b-ce16-4579-99b9-14b6ab2ce69e,0,2,Mr. Sidney Samuel Jacobsohn,male,42,1,0,27
+dbd27f71-44ec-492b-a3f6-96af0e0619b1,1,1,Miss. Albina Bazzani,female,32,0,0,76.2917
+8cf7a093-2a38-4adc-b2ed-40bff1dba47a,0,2,Mr. Walter Harris,male,30,0,0,10.5
+adc0db68-096b-4778-9cea-a21a541cff8a,1,3,Mr. Victor Francis Sunderland,male,16,0,0,8.05
+e362ba50-addb-4db4-86de-3efa61ba0e65,0,2,Mr. James H Bracken,male,27,0,0,13
+c1e68efc-9315-4f46-9aad-511255ffb814,0,3,Mr. George Henry Green,male,51,0,0,8.05
+6653b11a-30c5-4ba8-b0ae-eb23f430a37f,0,3,Mr. Christo Nenkoff,male,22,0,0,7.8958
+402b5e16-40fc-40cf-87af-9f69f23d77c6,0,1,Mr. Frederick Maxfield Hoyt,male,38,1,0,90
+d5eb6886-ed95-4224-9749-23a66f83c991,1,3,Mr. Karl Ivar Sven Berglund,male,22,0,0,9.35
+89b4f0af-2a9b-4c86-b52e-4b181fa2b944,0,2,Mr. William John Mellors,male,19,0,0,10.5
+baa5d20d-d878-4e92-bbbf-2c0292e46ef2,1,3,Mr. John Hall Lovell,male,20.5,0,0,7.25
+00b0352c-9f57-43fa-ace4-3a89dd3dd6a3,0,2,Mr. Arne Jonas Fahlstrom,male,18,0,0,13
+b62ea71f-97c0-4b17-a4f8-9b0092ebb4a6,0,3,Miss. Mathilde Lefebre,female,12,3,1,25.4667
+1bad8afe-5c71-4c9c-8679-a7269760ee1b,0,1,Mrs. Henry Birkhardt (Irene Wallach) Harris,female,35,1,0,83.475
+f661145b-d196-4d9b-a36e-d47a5e51e6e9,0,3,Mr. Bengt Edvin Larsson,male,29,0,0,7.775
+7a3a410d-d186-4192-b513-36d90286ec02,1,2,Mr. Ernst Adolf Sjostedt,male,59,0,0,13.5
+bffe8da9-66ea-4063-96c4-fc63a311d889,0,3,Miss. Lillian Gertrud Asplund,female,5,4,2,31.3875
+0454ea0c-46ba-4b49-b221-717f2526ab1a,1,2,Mr. Robert William Norman Leyson,male,24,0,0,10.5
+9370c706-7c9d-4e06-9bc1-4915a80ac41b,0,3,Miss. Alice Phoebe Harknett,female,21,0,0,7.55
+e3957827-5263-4301-8ece-53bc26ee26d6,0,2,Mr. Stephen Hold,male,44,1,0,26
+d85847b6-440f-4089-b120-25fd4aebe4a2,0,2,Miss. Marjorie Collyer,female,8,0,2,26.25
+84480f8d-1242-44c5-806e-1904c9ab1dff,0,2,Mr. Frederick William Pengelly,male,19,0,0,10.5
+74512eba-6f20-4b5a-8dc1-84ee7d9c5f98,1,2,Mr. George Henry Hunt,male,33,0,0,12.275
+decdbf2c-0fd9-4ced-81ff-3d80e8b64441,0,3,Miss. Thamine Zabour,female,19,1,0,14.4542
+974f2fbd-e1d7-4aaf-9960-bedf2c6e4f59,1,3,Miss. Katherine Murphy,female,18,1,0,15.5
+19e268ac-4008-4145-a480-1e8918203a5c,0,2,Mr. Reginald Charles Coleridge,male,29,0,0,10.5
+c6757ec9-9c96-446c-a382-2e651afc7c1c,0,3,Mr. Matti Alexanteri Maenpaa,male,22,0,0,7.125
+89dcaf31-00ae-48df-948f-3f405ac48640,0,3,Mr. Sleiman Attalah,male,30,0,0,7.225
+d170aa10-cab2-4242-8a2c-ce3cc72ccb21,0,1,Dr. William Edward Minahan,male,44,2,0,90
+13ee8d6b-f13e-4a41-80a1-58c33b17cc6d,1,3,Miss. Agda Thorilda Viktoria Lindahl,female,25,0,0,7.775
+8be445ac-8061-4519-89e0-d80b10d570a3,0,2,Mrs. William (Anna) Hamalainen,female,24,0,2,14.5
+556fe6b9-aa9b-4162-a49d-5f11013baadc,1,1,Mr. Richard Leonard Beckwith,male,37,1,1,52.5542
+cde6d4a1-d007-44ed-8bc6-10491d82cc7f,0,2,Rev. Ernest Courtenay Carter,male,54,1,0,26
+b945573e-e9fe-4bf9-a301-6b2a08f51ea3,0,3,Mr. James George Reed,male,18,0,0,7.25
+e5eca861-2eed-4f74-8269-7040b7059e7e,0,3,Mrs. Wilhelm (Elna Matilda Persson) Strom,female,29,1,1,10.4625
+5c0298f7-06b5-41a6-b0fd-77831961a8cb,0,1,Mr. William Thomas Stead,male,62,0,0,26.55
+f06e4004-8399-47ca-ab9c-e163d03e6a10,1,3,Mr. William Arthur Lobb,male,30,1,0,16.1
+605aeda8-8914-436f-8303-891bddc37255,0,3,Mrs. Viktor (Helena Wilhelmina) Rosblom,female,41,0,2,20.2125
+5c2a9bf9-4385-4405-a023-b4a8083254af,1,3,Mrs. Darwis (Hanne Youssef Razi) Touma,female,29,0,2,15.2458
+a034310e-59be-454c-a91d-2917636287d5,0,1,Mrs. Gertrude Maybelle Thorne,female,38,0,0,79.2
+b1bfdd7f-e38f-407c-9551-2c3b896dda94,0,1,Miss. Gladys Cherry,female,30,0,0,86.5
+52c8e339-590d-4fe4-a479-135c8910b40d,0,1,Miss. Anna Ward,female,35,0,0,512.3292
+89c8c513-1b3f-46f5-9669-ba9d868a91f6,0,2,Mrs. (Lutie Davis) Parrish,female,50,0,1,26
+ffe7a991-177e-4236-b10c-db47520783a0,1,3,Master. Edvin Rojj Felix Asplund,male,3,4,2,31.3875
+60f41ff5-9c14-4095-8bed-0c379c219693,0,1,Mr. Emil Taussig,male,52,1,1,79.65
+1349f098-e440-42ea-9174-ded7ebecaeaa,1,1,Mr. William Harrison,male,40,0,0,0
+07b9a6b2-75c6-44f4-8879-f1f7de870fd6,0,3,Miss. Delia Henry,female,21,0,0,7.75
+25c47eb0-5976-4b0f-92a2-d323a518a128,0,2,Mr. David Reeves,male,36,0,0,10.5
+7af1e2e1-4699-4a1b-ab4e-01cc94e09f2b,0,3,Mr. Ernesti Arvid Panula,male,16,4,1,39.6875
+745e7771-897c-4bff-b695-d511c5f60a01,0,3,Mr. Ernst Ulrik Persson,male,25,1,0,7.775
+2de2c235-2277-4af4-9760-7b940267e361,1,1,Mrs. William Thompson (Edith Junkins) Graham,female,58,0,1,153.4625
+b8c42236-e37c-4a51-a778-2604fa6e4d66,0,1,Miss. Amelia Bissette,female,35,0,0,135.6333
+5296f0e3-7d60-47ab-80bd-c75716e7c5aa,1,1,Mr. Alexander Cairns,male,28,0,0,31
+221cb176-a317-4536-9764-ab9613c24f2d,0,3,Mr. William Henry Tornquist,male,25,0,0,0
+d55ab012-6db0-454b-928c-3e8b3a910b34,0,2,Mrs. (Elizabeth Anne Maidment) Mellinger,female,41,0,1,19.5
+18f0bf60-71f5-40af-a7d3-2a9b521beb65,0,1,Mr. Charles H Natsch,male,37,0,1,29.7
+5040c267-972b-42ee-a2d6-cc29d7cdff9c,0,3,Miss. Hanora Healy,female,33,0,0,7.75
+08b117c0-0406-45ec-9e7a-2ca6fd64592b,1,1,Miss. Kornelia Theodosia Andrews,female,63,1,0,77.9583
+f361c035-631d-4128-b677-2d63c2e3ec8b,0,3,Miss. Augusta Charlotta Lindblom,female,45,0,0,7.75
+c4061990-32b7-4450-bc48-078447bdb41e,1,2,Mr. Francis Parkes,male,21,0,0,0
+d114dc1c-fb9b-4f0f-8389-de50ff068275,0,3,Master. Eric Rice,male,7,4,1,29.125
+56bd04ea-b303-4857-a2ef-7702029e0055,0,3,Mrs. Stanton (Rosa Hunt) Abbott,female,35,1,1,20.25
+cf1ba2b9-6da8-46b5-b7ba-114d01f6d5ee,0,3,Mr. Frank Duane,male,65,0,0,7.75
+68a21c83-12b2-4d4d-9159-a496f58d7beb,0,3,Mr. Nils Johan Goransson Olsson,male,28,0,0,7.8542
+b8c32e1a-bf0c-4658-bbd6-a6a7be6e106b,1,3,Mr. Alfons de Pelsmaeker,male,16,0,0,9.5
+f81befe2-09b2-45a8-b300-9ff23c44a03b,0,3,Mr. Edward Arthur Dorking,male,19,0,0,8.05
+53a84423-2ae2-4c85-b8d7-bfdc07ec0e2d,1,1,Mr. Richard William Smith,male,57,0,0,26
+31d06f4d-69e1-4f79-99a7-3b7e41ded67b,0,3,Mr. Ivan Stankovic,male,33,0,0,8.6625
+8a4b3b5e-4453-4621-bdfa-2deb265a3195,0,3,Mr. Theodore de Mulder,male,30,0,0,9.5
+0900d9c4-03b4-48d6-8042-d39d22dd6e7c,0,3,Mr. Penko Naidenoff,male,22,0,0,7.8958
+c3efd910-6109-43c9-87d3-c9e653b1c4c3,0,2,Mr. Masabumi Hosono,male,42,0,0,13
+28669f61-843c-480d-976f-e043318a6456,1,3,Miss. Kate Connolly,female,22,0,0,7.75
+37e65bca-308b-474e-b595-2d43c504c3ec,0,1,Miss. Ellen Barber,female,26,0,0,78.85
+f354963a-e485-4967-9fe2-a6e3e3481e3a,1,1,Mrs. Dickinson H (Helen Walton) Bishop,female,19,1,0,91.0792
+bce55b75-96ed-4696-8af8-ee08545a81b2,0,2,Mr. Rene Jacques Levy,male,36,0,0,12.875
+d82313a9-2a2d-4496-9663-413687e7eb78,0,3,Miss. Aloisia Haas,female,24,0,0,8.85
+e576fbd2-b65e-46c6-a0a4-b028150f8524,0,3,Mr. Ivan Mineff,male,24,0,0,7.8958
+af83d0e1-9bd3-4bbf-b061-10157f5d85e6,0,1,Mr. Ervin G Lewy,male,30,0,0,27.7208
+80b6c254-869a-47fe-ade8-82b942ca1eca,1,3,Mr. Mansour Hanna,male,23.5,0,0,7.2292
+624f5596-bf4c-468b-a4e0-54cebbe21263,0,1,Miss. Helen Loraine Allison,female,2,1,2,151.55
+f3f286e4-f3a3-452e-b712-b96799756dbe,0,1,Mr. Adolphe Saalfeld,male,47,0,0,30.5
+b743e2af-8f8a-46b0-9f60-e702de264850,1,1,Mrs. James (Helene DeLaudeniere Chaput) Baxter,female,50,0,1,247.5208
+b2b8c63d-1b69-4499-a501-8590449ad389,0,3,Miss. Anna Katherine Kelly,female,20,0,0,7.75
+1c41648e-2896-411d-8808-bf2a42f93399,0,3,Mr. Bernard McCoy,male,24,2,0,23.25
+0d93eabe-97ba-40ac-92db-1b5786e8f7ca,0,3,Mr. William Cahoone Jr Johnson,male,19,0,0,0
+6e2597d8-a92a-4f9f-b76d-90987af40615,0,2,Miss. Nora A Keane,female,46,0,0,12.35
+19e6e46b-c583-47b1-9633-6dff729eab06,1,3,Mr. Howard Hugh Williams,male,28,0,0,8.05
+13f12437-9caf-43fb-98ee-7a8e9202f7bd,0,1,Master. Hudson Trevor Allison,male,0.92,1,2,151.55
+ad7fe65e-9f66-4d44-bbde-3d11f610d0d6,1,1,Miss. Margaret Fleming,female,42,0,0,110.8833
+01a51e3f-6aa8-4503-9c5a-b278bb3d3c50,0,1,Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,female,17,1,0,108.9
+5e2c0ebc-1ba4-4c83-adae-b7508df6a415,0,2,Mr. Samuel Abelson,male,30,1,0,24
+9fb09fbd-540a-4f07-b281-f61cf76b0269,0,1,Miss. Laura Mabel Francatelli,female,30,0,0,56.9292
+cd8d0ea3-8187-4670-92d9-2a0c2697b1aa,0,1,Miss. Margaret Bechstein Hays,female,24,0,0,83.1583
+263c73c7-15ee-431c-b87f-546bbc91a7ff,1,1,Miss. Emily Borie Ryerson,female,18,2,2,262.375
+40025410-88c2-4128-ade7-180e3ca785fb,0,2,Mrs. William (Anna Sylfven) Lahtinen,female,26,1,1,26
+ffac9b53-7438-457d-91b3-a2fdc2816da0,1,3,Mr. Ignjac Hendekovic,male,28,0,0,7.8958
+c577b413-b4cd-4587-9740-53070ca64464,0,2,Mr. Benjamin Hart,male,43,1,1,26.25
+6524ef46-686b-4925-94ea-ddc56e7e3296,0,3,Miss. Helmina Josefina Nilsson,female,26,0,0,7.8542
+4057e41f-0c9e-40b1-ab31-ef02abc0a158,0,2,Mrs. Sinai (Miriam Sternin) Kantor,female,24,1,0,26
+6f0fbcb5-4419-4ddc-a41a-8d8ef33415d4,0,2,Dr. Ernest Moraweck,male,54,0,0,14
+b95da903-5b4f-42c0-94cc-f8f570db5554,1,1,Miss. Mary Natalie Wick,female,31,0,2,164.8667
+3795d40c-d5f8-49f7-aa68-a0ccdc72c4ba,0,1,Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden,female,40,1,1,134.5
+bc060115-714a-4b71-809b-d2ab750f7c2c,1,3,Mr. Samuel Dennis,male,22,0,0,7.25
+84264b73-171f-4b61-affc-367f12df5aa7,0,3,Mr. Yoto Danoff,male,27,0,0,7.8958
+36965657-53c5-4efd-959d-cabb2d1abc7a,0,2,Miss. Hilda Mary Slayter,female,30,0,0,12.35
+1ad02ac4-de0c-44d4-8280-06a300af787b,0,2,Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell,female,22,1,1,29
+f5a0bf99-3475-4fa7-9ad2-7d7ff02ccad2,0,3,Mr. George John Jr Sage,male,20,8,2,69.55
+7244a12a-cca0-41b6-8e5d-3702dcd46e1d,1,1,Miss. Marie Grice Young,female,36,0,0,135.6333
+fbe8225e-8ed5-4ac9-8772-4709648cba15,0,3,Mr. Johan Hansen Nysveen,male,61,0,0,6.2375
+da002196-8545-4855-8d54-9f18bd5c27e0,1,2,Mrs. (Ada E Hall) Ball,female,36,0,0,13
+4c81193d-3578-40e5-81eb-bf55eea73d48,0,3,Mrs. Frank John (Emily Alice Brown) Goldsmith,female,31,1,1,20.525
+17a5fe7d-bfdf-40c3-a8f9-d3e370c0888b,0,1,Miss. Jean Gertrude Hippach,female,16,0,1,57.9792
+4f93de02-69c8-45d9-b442-9f9476926d1d,0,3,Miss. Agnes McCoy,female,28,2,0,23.25
+97f6938e-0448-452f-a0fe-817ddc784113,0,1,Mr. Austen Partner,male,45.5,0,0,28.5
+ed904a8f-694b-44db-8ff8-9b2a03b40e93,1,1,Mr. George Edward Graham,male,38,0,1,153.4625
+2482d5aa-b508-4151-a191-99b10a79ea89,0,3,Mr. Leo Edmondus Vander Planke,male,16,2,0,18
+cc9ee248-d82f-4216-9066-4149343a4993,1,1,Mrs. Henry William (Clara Heinsheimer) Frauenthal,female,42,1,0,133.65
+a513a09f-bb46-48ed-bde9-8f01a375728f,0,3,Mr. Mitto Denkoff,male,30,0,0,7.8958
+dae9101b-23ac-4169-9219-7d2b4c9a730d,0,1,Mr. Thomas Clinton Pears,male,29,1,0,66.6
+bdd58e1b-cb2f-4237-8c44-227a3a9bd74a,0,1,Miss. Elizabeth Margaret Burns,female,41,0,0,134.5
+e7804a07-16f6-44d1-bdb8-de50b21dbc87,0,3,Mr. Karl Edwart Dahl,male,45,0,0,8.05
+2f0e81e2-00fe-447c-bdc7-f95bb261072a,1,1,Mr. Stephen Weart Blackwell,male,45,0,0,35.5
+a0232c00-00a4-4296-83d8-8a3ed718a3d5,0,2,Master. Edmond Roger Navratil,male,2,1,1,26
+3998f34c-517b-44ac-a4fa-fcbd61325feb,1,1,Miss. Alice Elizabeth Fortune,female,24,3,2,263
+6f8e21ee-f748-4d5e-95a0-afbfebe984d1,0,2,Mr. Erik Gustaf Collander,male,28,0,0,13
+ea0ffa9b-a162-4ea7-86a5-37298980b59d,0,2,Mr. Charles Frederick Waddington Sedgwick,male,25,0,0,13
+f0383bca-dc73-4dab-a6e6-f38272c87617,0,2,Mr. Stanley Hubert Fox,male,36,0,0,13
+deb243c6-eea5-43b0-9872-4cd1d8702c57,0,2,Miss. Amelia Brown,female,24,0,0,13
+3e9901c6-441b-4717-868c-cde39a16e594,1,2,Miss. Marion Elsie Smith,female,40,0,0,13
+83bc1a8e-82f6-44aa-8d59-3afb3a81daba,0,3,Mrs. Thomas Henry (Mary E Finck) Davison,female,34,1,0,16.1
+f0b5fbac-3eed-4c57-80f8-102f419aa956,1,3,Master. William Loch Coutts,male,3,1,1,15.9
+95b57322-69f8-46ea-bcc8-f414eaca585b,0,3,Mr. Jovan Dimic,male,42,0,0,8.6625
+85265395-41c8-4767-bc3a-d6eeee32dee4,0,3,Mr. Nils Martin Odahl,male,23,0,0,9.225
+a0044fad-560d-4ad2-bb4b-f422b0f06159,0,1,Mr. Fletcher Fellows Williams-Lambert,male,43,0,0,35
+093dfeba-5449-40cd-ae1c-4bada6b4190e,0,3,Mr. Tannous Elias,male,15,1,1,7.2292
+d64b17d1-2d58-4ffc-b2e8-28cf8ca2c20c,1,3,Mr. Josef Arnold-Franchi,male,25,1,0,17.8
+dc4921a3-c4b4-4a7d-bdda-aa0f4f150efe,0,3,Mr. Wazli Yousif,male,23,0,0,7.225
+5d42adad-2b6f-4662-9261-7ee64d45178a,1,3,Mr. Leo Peter Vanden Steen,male,28,0,0,9.5
+6da66381-5053-4bc6-91d5-41e94345dfe4,0,1,Miss. Elsie Edith Bowerman,female,22,0,1,55
+b7f6c2ad-f79b-4d58-a900-31e6c4ee7bed,0,2,Miss. Annie Clemmer Funk,female,38,0,0,13
+10c29ce1-9d3d-4e99-b0c6-c4c70a5a1d4c,0,3,Miss. Mary McGovern,female,22,0,0,7.8792
+9a96c30f-efd4-43ee-9c25-b1bbe48f771c,0,3,Miss. Helen Mary Mockler,female,23,0,0,7.8792
+917ff6bc-f729-455e-a3a2-7f645d21eafd,1,3,Mr. Wilhelm Skoog,male,40,1,4,27.9
+2114a757-6ea0-41ad-9b3f-d0ee751d7bba,0,2,Mr. Sebastiano del Carlo,male,29,1,0,27.7208
+2e1ae196-69cd-423a-bddd-15f1efbbe640,1,3,Mrs. (Catherine David) Barbara,female,45,0,1,14.4542
+6732d79d-dd07-49d7-bef8-1ed232c9c4a5,0,3,Mr. Adola Asim,male,35,0,0,7.05
+6f2190c0-841c-4223-a698-c2de5744f059,0,3,Mr. Thomas O'Brien,male,27,1,0,15.5
+822d0e2f-ccb6-4337-a3e1-fb53896d748f,0,3,Mr. Mauritz Nils Martin Adahl,male,30,0,0,7.25
+6cb21c29-3f4c-4472-b018-33e6c2689f7e,0,1,Mrs. Frank Manley (Anna Sophia Atkinson) Warren,female,60,1,0,75.25
+2fc4194d-2d35-475e-b471-403af63a748a,1,3,Mrs. (Mantoura Boulos) Moussa,female,35,0,0,7.2292
+adcba197-c040-4d45-8b11-0225feb4d0c3,0,3,Miss. Annie Jermyn,female,22,0,0,7.75
+3197497e-a426-4dec-877f-ce5f93c480ca,1,1,Mme. Leontine Pauline Aubart,female,24,0,0,69.3
+a1fa9936-bec3-4e34-9186-689f62aaf45f,0,1,Mr. George Achilles Harder,male,25,1,0,55.4417
+091bf509-36cd-450b-9ee1-fbed6bf4729e,0,3,Mr. Jakob Alfred Wiklund,male,18,1,0,6.4958
+3a3677b9-c2ff-406b-ad09-b7e544a121d6,0,3,Mr. William Thomas Beavan,male,19,0,0,8.05
+b5d7ea39-d1b2-43f6-85f9-2eac1f0a8a6c,0,1,Mr. Sante Ringhini,male,22,0,0,135.6333
+6ace6e1d-5bf2-41a3-9cb5-c09db26a0170,1,3,Miss. Stina Viola Palsson,female,3,3,1,21.075
+cdba37ff-19c0-48df-8d26-590f0ee8396a,0,1,Mrs. Edgar Joseph (Leila Saks) Meyer,female,25,1,0,82.1708
+129f9406-ec78-4bf4-91f1-61cc619958bf,1,3,Miss. Aurora Adelia Landergren,female,22,0,0,7.25
+43a3ccfe-9b06-4ee5-a3fc-f0f082af37a6,0,1,Mr. Harry Elkins Widener,male,27,0,2,211.5
+b4904b37-4af6-451f-8f1c-1ea04004c726,0,3,Mr. Tannous Betros,male,20,0,0,4.0125
+72cb62a9-8cfa-41eb-9b91-a60695c99b91,0,3,Mr. Karl Gideon Gustafsson,male,19,0,0,7.775
+fc75b26b-0d30-43a0-b5d3-c67258efced3,0,1,Miss. Rosalie Bidois,female,42,0,0,227.525
+7a515cf2-0d6b-45cd-8403-9c2acc44daf1,1,3,Miss. Maria Nakid,female,1,0,2,15.7417
+a2a68f2a-27fd-45d1-8e50-2fe884202f7c,0,3,Mr. Juho Tikkanen,male,32,0,0,7.925
+62332ea1-ed12-48f0-9cfe-b70a97f36a86,0,1,Mrs. Alexander Oskar (Mary Aline Towner) Holverson,female,35,1,0,52
+b58b0fdc-ca20-484f-ac32-66eaa8ef5f80,1,3,Mr. Vasil Plotcharsky,male,27,0,0,7.8958
+a27187b9-cad0-4f6d-b843-0740eb74b6cb,0,2,Mr. Charles Henry Davies,male,18,0,0,73.5
+dbeae016-562c-4309-a27a-ceef484c5e76,0,3,Master. Sidney Leonard Goodwin,male,1,5,2,46.9
+8ab445bc-201d-4fba-93e4-326e703b88ff,0,2,Miss. Kate Buss,female,36,0,0,13
+fc328d3f-9d50-4f78-97fb-f0e22b15f360,0,3,Mr. Matthew Sadlier,male,19,0,0,7.7292
+0ebc00d7-b589-4cfa-9850-5ef1ffc49244,1,2,Miss. Bertha Lehmann,female,17,0,0,12
+caadf891-4290-433a-9c4c-7d64df555355,0,1,Mr. William Ernest Carter,male,36,1,2,120
+a2e8bf33-34fd-4ff8-941d-90a788a43fb8,1,3,Mr. Carl Olof Jansson,male,21,0,0,7.7958
+1b58be17-5e42-4bef-9841-7b93b2f93b9e,0,3,Mr. Johan Birger Gustafsson,male,28,2,0,7.925
+2cbe17e0-7e11-47bc-bf48-872778b1977d,0,1,Miss. Marjorie Newell,female,23,1,0,113.275
+a1d80613-be45-4525-80ce-f497daf23be4,0,3,Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,female,24,0,2,16.7
+030394f5-cf2c-42be-a043-4b853ecd541a,0,3,Mr. Erik Johansson,male,22,0,0,7.7958
+ddaea24e-3bb2-45e7-8880-1035268bd60e,1,3,Miss. Elina Olsson,female,31,0,0,7.8542
+33ccf1d2-397d-4b93-bf2a-62158062e8e6,0,2,Mr. Peter David McKane,male,46,0,0,26
+91fd2116-473c-4786-a1d4-54bebef77481,1,2,Dr. Alfred Pain,male,23,0,0,10.5
+dc636de9-48f5-40e6-be61-abbb846beae6,0,2,Mrs. William H (Jessie L) Trout,female,28,0,0,12.65
+ab22560e-18da-4894-bb7d-3f9fcc7facc6,0,3,Mr. Juha Niskanen,male,39,0,0,7.925
+20e9f501-0d36-4e4f-998b-e470b590f73f,0,3,Mr. John Adams,male,26,0,0,8.05
+e6dc08e8-c5dc-4441-b78f-1e6e91f21f90,0,3,Miss. Mari Aina Jussila,female,21,1,0,9.825
+56f9acf1-5e79-4bab-89d8-fb9b2c91e0e4,1,3,Mr. Pekka Pietari Hakkarainen,male,28,1,0,15.85
+5490b53e-eaf8-4ec0-8555-7af5dc20ea65,0,3,Miss. Marija Oreskovic,female,20,0,0,8.6625
+2c7e8f7c-0231-4639-97ce-ab71c4ddcfa3,1,2,Mr. Shadrach Gale,male,34,1,0,21
+86461cc9-b41d-4fb3-8463-ebc9fc611b5b,0,3,Mr. Carl/Charles Peter Widegren,male,51,0,0,7.75
+8f45a104-d9a9-48d5-bd4e-7c97a499c7bb,0,2,Master. William Rowe Richards,male,3,1,1,18.75
+a18eab3c-2dcd-4667-b62e-d54b432feb77,0,3,Mr. Hans Martin Monsen Birkeland,male,21,0,0,7.775
+f40acb96-045c-4133-9ea9-6e2ca7497821,0,3,Miss. Ida Lefebre,female,3,3,1,25.4667
+b476afb5-acfc-45f8-8e51-550c1eb4a3aa,1,3,Mr. Todor Sdycoff,male,42,0,0,7.8958
+b2573d82-29cd-4c81-ba73-121afd324ddb,0,3,Mr. Henry Hart,male,27,0,0,6.8583
+40e70935-b765-4abb-b473-ba263c2ead33,1,1,Miss. Daisy E Minahan,female,33,1,0,90
+1b185e6f-c55b-482a-aab0-730334ac1eb1,0,2,Mr. Alfred Fleming Cunningham,male,22,0,0,0
+f38e9e3f-acfa-47d4-a639-f18be44c4562,0,3,Mr. Johan Julian Sundman,male,44,0,0,7.925
+e910d05d-75b0-4ee5-951e-92e81a85477c,0,3,Mrs. Thomas (Annie Louise Rowley) Meek,female,32,0,0,8.05
+4ea25649-92f8-44d8-881e-8bb4b11d8501,0,2,Mrs. James Vivian (Lulu Thorne Christian) Drew,female,34,1,1,32.5
+283048ab-84eb-4bbc-bea7-7044deadd732,1,2,Miss. Lyyli Karoliina Silven,female,18,0,2,13
+8601ffac-51d8-478a-b34d-e7fec20ceacd,0,2,Mr. William John Matthews,male,30,0,0,13
+60511203-bb88-45a5-9b6d-9f367b92d138,1,3,Miss. Catharina Van Impe,female,10,0,2,24.15
+828a4550-f002-4aff-a299-4c6bf9325d78,0,3,Mr. David Charters,male,21,0,0,7.7333
+e39b615f-2534-49b6-87c3-2e28b6161cd5,0,3,Mr. Leo Zimmerman,male,29,0,0,7.875
+ca37f1a6-7638-44cb-ab41-3e0562b0e475,0,3,Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,female,28,1,1,14.4
+d995cb38-77f1-4caf-8bcd-a7d20461ccb2,0,3,Mr. Viktor Richard Rosblom,male,18,1,1,20.2125
+1a3d148c-052c-4a3b-b8ad-51d351e3ebde,1,3,Mr. Phillippe Wiseman,male,54,0,0,7.25
+23dde84b-a32c-4c32-b603-4331c17569e3,0,2,Mrs. Charles V (Ada Maria Winfield) Clarke,female,28,1,0,26
+060d502d-e1cb-467c-a4c1-c4d9f9eaad59,1,2,Miss. Kate Florence Phillips,female,19,0,0,26
+98aa33c8-06bb-4647-8c0f-a68373db570e,0,3,Mr. James Flynn,male,28,0,0,7.75
+ec360d14-8612-4542-8937-2baa172f4b05,0,3,Mr. Berk (Berk Trembisky) Pickard,male,32,0,0,8.05
+07af0832-fe60-4181-ae06-883e41f80867,0,1,Mr. Mauritz Hakan Bjornstrom-Steffansson,male,28,0,0,26.55
+22afc119-af55-4cb1-9712-eb09731578b6,0,3,Mrs. Percival (Florence Kate White) Thorneycroft,female,33,1,0,16.1
+8132de0e-0619-4e7c-9285-1e24aa739d10,1,2,Mrs. Charles Alexander (Alice Adelaide Slow) Louch,female,42,1,0,26
+c14aaf0e-cf24-4bc4-b798-3b5f6bd33899,0,3,Mr. Nikolai Erland Kallio,male,17,0,0,7.125
+0e4ba69b-83ab-41e8-9c4e-fa9a53fd81d0,1,1,Mr. William Baird Silvey,male,50,1,0,55.9
+056f52ac-fd56-4b07-a69d-8a59750635b6,0,1,Miss. Lucile Polk Carter,female,14,1,2,120
+999085c8-0ad0-4269-aefa-558a3adce1a9,0,3,Miss. Doolina Margaret Ford,female,21,2,2,34.375
+2a7a8fdd-8238-4465-94f4-fdda437ac8d8,0,2,Mrs. Sidney (Emily Hocking) Richards,female,24,2,3,18.75
+860a570e-c31e-4938-a665-ea42265eb08e,0,1,Mr. Mark Fortune,male,64,1,4,263
+09c3c68b-afeb-4cd5-b12e-ecceeb8be002,1,2,Mr. Johan Henrik Johannesson Kvillner,male,31,0,0,10.5
+410b24ec-fbec-4396-8c26-00cd791f1c8d,0,2,Mrs. Benjamin (Esther Ada Bloomfield) Hart,female,45,1,1,26.25
+5de9e253-d03d-473d-a0b6-f3a3406f7043,1,3,Mr. Leon Hampe,male,20,0,0,9.5
+b597726e-5126-49ce-bb18-b5af5d75f6d1,0,3,Mr. Johan Emil Petterson,male,25,1,0,7.775
+3575ec14-e178-41ca-af1b-6e6f98d5b180,0,2,Ms. Encarnacion Reynaldo,female,28,0,0,13
+12ca6301-f407-4a8a-bae3-102d560ec713,0,3,Mr. Bernt Johannesen-Bratthammer,male,29,0,0,8.1125
+881cfc87-5ba0-407f-baf4-bb4dfaca155b,0,1,Master. Washington Dodge,male,4,0,2,81.8583
+dcbe642f-8ed6-498b-b9cc-d0b1b52bbec5,1,2,Miss. Madeleine Violet Mellinger,female,13,0,1,19.5
+ecd295a7-5dae-4e7d-ab86-d841840857d7,0,1,Mr. Frederic Kimber Seward,male,34,0,0,26.55
+5574a01a-38f0-4e0c-9706-44a6cfdf9c38,1,3,Miss. Marie Catherine Baclini,female,5,2,1,19.2583
+0c5467e5-453e-41e6-b05f-b915e31843bb,0,1,Major. Arthur Godfrey Peuchen,male,52,0,0,30.5
+84ea252a-47d6-480e-a4bb-1cb524ea9dbe,0,2,Mr. Edwy Arthur West,male,36,1,2,27.75
+1791e6ea-24e6-4b23-8ae2-164c080496bc,0,3,Mr. Ingvald Olai Olsen Hagland,male,28,1,0,19.9667
+5447a2f1-b366-4294-94ca-992950fbf901,0,1,Mr. Benjamin Laventall Foreman,male,30,0,0,27.75
+2d4a20c2-a990-47a6-917b-b2d46e7cfa3f,1,1,Mr. Samuel L Goldenberg,male,49,1,0,89.1042
+10b4267c-caf1-4e3b-85d5-b9277cca9648,0,3,Mr. Joseph Peduzzi,male,24,0,0,8.05
+73c55e84-68a3-4db7-87b3-815e3c77c624,1,3,Mr. Ivan Jalsevac,male,29,0,0,7.8958
+4b6937a7-8665-44ff-a07f-69461fbbb2bf,0,1,Mr. Francis Davis Millet,male,65,0,0,26.55
+bf838268-dac5-4abd-ba72-9bceaa8e9631,0,1,Mrs. Frederick R (Marion) Kenyon,female,41,1,0,51.8625
+ba512146-8bb5-47f3-9601-bbb627618e90,0,2,Miss. Ellen Toomey,female,50,0,0,10.5
+7a218eb5-8806-43b9-8c46-3d0001db8421,0,3,Mr. Maurice O'Connor,male,17,0,0,7.75
+cd3d0e2d-e425-4959-b56c-2340a1bb5af5,1,1,Mr. Harry Anderson,male,48,0,0,26.55
+25485b20-040c-4e36-995a-9ec708ebea3c,0,3,Mr. William Morley,male,34,0,0,8.05
+01cffd87-513d-4c06-b539-f38c7cbc0eee,1,1,Mr. Arthur H Gee,male,47,0,0,38.5
+7a8f5785-ba19-4cc9-8447-e1c836ada10f,0,2,Mr. Jacob Christian Milling,male,48,0,0,13
+5435414f-1dc7-48b3-a502-d6a246f5f368,0,3,Mr. Simon Maisner,male,34,0,0,8.05
+9f8ced7e-b0e1-49de-bd80-1a354a444578,0,3,Mr. Manuel Estanslas Goncalves,male,38,0,0,7.05
+71ae22bf-80c1-4cac-9e47-39bb55808824,0,2,Mr. William Campbell,male,21,0,0,0
+7191fdb4-138e-49dd-9016-39dbb83f6ce1,1,1,Mr. John Montgomery Smart,male,56,0,0,26.55
+46a65a11-47ce-440d-a683-99ac3a2e24e8,0,3,Mr. James Scanlan,male,22,0,0,7.725
+fc10cd92-72f8-46b4-b191-37769e9c6f90,0,3,Miss. Helene Barbara Baclini,female,0.75,2,1,19.2583
+2b70550b-9580-4571-b6c9-d07cad4628e5,1,3,Mr. Arthur Keefe,male,39,0,0,7.25
+6ef222f2-dc7d-418f-bb8d-52219f1350c8,0,3,Mr. Luka Cacic,male,38,0,0,8.6625
+d6062157-807b-493b-b798-f722221e8650,0,2,Mrs. Edwy Arthur (Ada Mary Worth) West,female,33,1,2,27.75
+5382cb23-32d1-4650-aa04-4f8d805aa31a,0,2,Mrs. Amin S (Marie Marthe Thuillard) Jerwan,female,23,0,0,13.7917
+872478bc-58a4-4bf2-84b2-a2d788bf5238,0,3,Miss. Ida Sofia Strandberg,female,22,0,0,9.8375
+88afe61e-e554-446c-8ba0-8d0d9d98c89a,1,1,Mr. George Quincy Clifford,male,40,0,0,52
+4cf4032b-9575-485d-b074-fb901983ae54,0,2,Mr. Peter Henry Renouf,male,34,1,0,21
+06ae06f3-86c3-48f1-9557-19cefc427afd,1,3,Mr. Lewis Richard Braund,male,29,1,0,7.0458
+22191dbb-f1ae-404c-aeb4-a59110d0901b,0,3,Mr. Nils August Karlsson,male,22,0,0,7.5208
+b98e0e5b-6160-47d7-a35f-c9a15afa49d5,0,3,Miss. Hildur E Hirvonen,female,2,0,1,12.2875
+5765191f-b00c-428e-aa58-81757c814464,0,3,Master. Harold Victor Goodwin,male,9,5,2,46.9
+78d4d3bb-ab68-4821-9532-1238300d8fc2,0,2,Mr. Anthony Wood Frost,male,37,0,0,0
+d9cf6c9a-e495-4b95-bdf4-3b5fcb989534,1,3,Mr. Richard Henry Rouse,male,50,0,0,8.05
+a2143cbc-4a4e-4e1b-a528-2c94b6ef8cf7,0,3,Mrs. (Hedwig) Turkula,female,63,0,0,9.5875
+14936746-734f-405b-beb7-bb02988d0f27,1,1,Mr. Dickinson H Bishop,male,25,1,0,91.0792
+623776ab-c128-4d83-8502-82ede9b8612b,0,3,Miss. Jeannie Lefebre,female,8,3,1,25.4667
+97e9fc91-4783-45a5-8ec7-6e12529ff40c,0,1,Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt,female,35,1,0,90
+6512f36f-1043-4cda-9856-5d3ed7329ac5,0,1,Mr. Edward Austin Kent,male,58,0,0,29.7
+60e883a2-a554-42c8-8bd0-50da6a1dca34,0,3,Mr. Francis William Somerton,male,30,0,0,8.05
+5bbb28b8-fc9e-4f3c-88db-d64badb7a4b3,1,3,Master. Eden Leslie Coutts,male,9,1,1,15.9
+ed6b4cfb-8f28-45ca-9d3f-cdc700790bd2,0,3,Mr. Konrad Mathias Reiersen Hagland,male,19,1,0,19.9667
+6f0496f6-d359-48c0-87b8-09904bb20d8a,1,3,Mr. Einar Windelov,male,21,0,0,7.25
+82eaa700-703b-46d0-abac-83651bea1cd3,0,1,Mr. Harry Markland Molson,male,55,0,0,30.5
+f01580c8-098a-4d10-91eb-0e8f0bd1373c,0,1,Mr. Ramon Artagaveytia,male,71,0,0,49.5042
+8b5a3f82-a391-47d5-b4b0-c409929b93b1,0,3,Mr. Edward Roland Stanley,male,21,0,0,8.05
+d89f599f-c483-4f59-aef4-0afa14d2f1dd,0,3,Mr. Gerious Yousseff,male,26,0,0,14.4583
+1c188931-aee8-475f-8229-c4f5ac84a7d8,1,1,Miss. Elizabeth Mussey Eustis,female,54,1,0,78.2667
+fd47c024-6acc-4710-adc9-92306397ad14,0,3,Mr. Frederick William Shellard,male,55,0,0,15.1
+c03a29f3-7463-440d-a127-e447cdbb3fff,1,1,Mrs. Hudson J C (Bessie Waldo Daniels) Allison,female,25,1,2,151.55
+a2645e1d-ca43-40f8-9316-268e6818797c,0,3,Mr. Olof Svensson,male,24,0,0,7.7958
+4618644d-d6f7-4ac0-a61f-c359e937bb41,0,3,Mr. Petar Calic,male,17,0,0,8.6625
+23c7cc64-4ad0-4e32-9e9e-8482e70e26a7,0,3,Miss. Mary Canavan,female,21,0,0,7.75
+ed6674bb-f1e0-411b-903a-1dc63667bdd3,0,3,Miss. Bridget Mary O'Sullivan,female,21,0,0,7.6292
+af2e70f9-0c08-42f3-8e26-51a42c540f6a,1,3,Miss. Kristina Sofia Laitinen,female,37,0,0,9.5875
+3f493b8e-5c6f-4561-871a-9c52d8c90093,0,1,Miss. Roberta Maioni,female,16,0,0,86.5
+c4cadad0-7946-4632-8685-ef0651f0aecf,1,1,Mr. Victor de Satode Penasco y Castellana,male,18,1,0,108.9
+365778c6-7baa-4d63-af83-cc236b9e49fb,0,2,Mrs. Frederick Charles (Jane Richards) Quick,female,33,0,2,26
+c28dcdeb-5113-4668-a267-7a99daede255,0,1,Mr. George Bradley,male,37,0,0,26.55
+f4403c92-b149-4d19-b606-23e95586c32b,0,3,Mr. Henry Margido Olsen,male,28,0,0,22.525
+18987256-f092-4087-b26a-347dd7cb0a6b,0,3,Mr. Fang Lang,male,26,0,0,56.4958
+4ee664a0-7d25-4cbb-90d7-20c8ee766001,1,3,Mr. Eugene Patrick Daly,male,29,0,0,7.75
+c5e536c0-8693-4fe7-9860-189bf2a549b5,0,3,Mr. James Webber,male,66,0,0,8.05
+5c9cf934-b486-46a3-a388-6c3ffc3cd020,1,1,Mr. James Robert McGough,male,36,0,0,26.2875
+d9acaec8-26a9-4ae8-bea3-69e1f8795a1e,0,1,Mrs. Martin (Elizabeth L. Barrett) Rothschild,female,54,1,0,59.4
+ac14c635-cd67-49f5-9b44-00e5d193664c,0,3,Mr. Satio Coleff,male,24,0,0,7.4958
+1f1264c9-c42d-4851-a804-4dc629d8c966,0,1,Mr. William Anderson Walker,male,47,0,0,34.0208
+d9884e01-e69d-4683-a46d-b58c5f6c19f4,0,2,Mrs. (Amelia Milley) Lemore,female,34,0,0,10.5
+7dcc9ad1-5e0c-411b-9ef0-2022c3a5f93a,1,3,Mr. Patrick Ryan,male,30,0,0,24.15
+f1f35a74-9ace-4c13-987c-9c432de7e321,0,2,Mrs. William A (Florence Agnes Hughes) Angle,female,36,1,0,26
+dec34b12-e24b-4019-9133-0109bee6915c,1,3,Mr. Stefo Pavlovic,male,32,0,0,7.8958
+45097c8f-4d63-4cab-89b4-5497eebe647d,0,1,Miss. Anne Perreault,female,30,0,0,93.5
+c6ca62d4-c7fc-4381-96b8-51261b02715a,0,3,Mr. Janko Vovk,male,22,0,0,7.8958
+1fa8570f-7927-46f6-aa62-912976e9c146,0,3,Mr. Sarkis Lahoud,male,35,0,0,7.225
+d823f427-9d38-48d2-b6ff-7ef4346a1e5e,0,1,Mrs. Louis Albert (Ida Sophia Fischer) Hippach,female,44,0,1,57.9792
+9c83c71a-e7cb-4a79-94c7-2985c6942f0c,1,3,Mr. Fared Kassem,male,18,0,0,7.2292
+e9c9c8ea-f0de-482b-b9a3-db8e54163069,0,3,Mr. James Farrell,male,40.5,0,0,7.75
+0dc173c1-a0b5-456f-8ffc-afc8a2e533e8,1,2,Miss. Lucy Ridsdale,female,50,0,0,10.5
+76cf429c-5725-4bdf-9ace-2ba467539cc9,0,1,Mr. John Farthing,male,49,0,0,221.7792
+62bf47d2-e3d8-4e78-b6f7-e39759482b68,0,3,Mr. Johan Werner Salonen,male,39,0,0,7.925
+39af6299-7a54-4b6c-bfc6-0ac37ef5ba41,0,2,Mr. Richard George Hocking,male,23,2,1,11.5
+95ba732f-a198-4a32-844f-49cea956467b,0,2,Miss. Phyllis May Quick,female,2,1,1,26
+ca441b27-ed0e-462f-b8b5-3c7528e507fa,1,3,Mr. Nakli Toufik,male,17,0,0,7.2292
+fe867705-190f-498b-92fe-88e46239326e,0,3,Mr. Joseph Jr Elias,male,17,1,1,7.2292
+878b294d-3c55-43f4-a6ed-44a5997562e9,1,3,Mrs. Catherine (Catherine Rizk) Peter,female,24,0,2,22.3583
+3535ffad-1c70-4321-9c64-031868eabfd4,0,3,Miss. Marija Cacic,female,30,0,0,8.6625
+8a3ed049-183d-40db-a62a-1f0bc9ed3746,0,2,Miss. Eva Miriam Hart,female,7,0,2,26.25
+b758bc67-800d-4bd8-b3fa-c853ad63b644,0,1,Major. Archibald Willingham Butt,male,45,0,0,26.55
+a04a13ba-6705-4740-b970-a50500a1a19f,0,1,Miss. Bertha LeRoy,female,30,0,0,106.425
+eb333552-71aa-4050-ba4d-50d052ce1d7a,1,3,Mr. Samuel Beard Risien,male,69,0,0,14.5
+f6caad14-346f-40b4-be5b-11847625c9b3,0,1,Miss. Hedwig Margaritha Frolicher,female,22,0,2,49.5
+affc6e20-e1dd-474e-851a-db84e53331b7,1,1,Miss. Harriet R Crosby,female,36,0,2,71
+6054e407-ea97-41dd-86a3-ea4c57cb7d82,0,3,Miss. Ingeborg Constanzia Andersson,female,9,4,2,31.275
+cad84794-60de-4654-9ef7-0d70c0de166e,0,3,Miss. Sigrid Elisabeth Andersson,female,11,4,2,31.275
+f4a04395-17e2-418b-941d-19f6c1e49089,0,2,Mr. Edward Beane,male,32,1,0,26
+9b061f4a-7b8f-4346-b941-8c43956344b3,0,1,Mr. Walter Donald Douglas,male,50,1,0,106.425
+fd1f198d-4883-42d8-907f-d2c86ccd3e1e,1,1,Mr. Arthur Ernest Nicholson,male,64,0,0,26
+5f6a28c2-07ed-4e2b-8ad3-df9c76446377,0,2,Mrs. Edward (Ethel Clarke) Beane,female,19,1,0,26
+abcab16a-9729-4441-8fab-d43dd2937684,1,2,Mr. Julian Padro y Manent,male,27,0,0,13.8625
+2ad31866-5d96-4946-add8-2cfff98054ed,0,3,Mr. Frank John Goldsmith,male,33,1,1,20.525
+fe628dbc-db60-44fe-817d-a17eb2dee968,0,2,Master. John Morgan Jr Davies,male,8,1,1,36.75
+9768203e-79a2-4e75-8e55-cdfe75492ef5,0,1,Mr. John Borland Jr Thayer,male,17,0,2,110.8833
+e1941f24-3e79-48da-af44-7b2bd9132efc,0,2,Mr. Percival James R Sharp,male,27,0,0,26
+53c9b9e6-6606-4ae2-acf9-118f8ca3d731,1,3,Mr. Timothy O'Brien,male,21,0,0,7.8292
+cc2788f7-f2d9-4ef8-bb78-8d7070e1b8d9,0,3,Mr. Fahim Leeni,male,22,0,0,7.225
+42d80d55-917e-4355-8c21-1b79ce5db940,0,3,Miss. Velin Ohman,female,22,0,0,7.775
+1413c4fb-952f-4497-a483-0ad3d1510d46,1,1,Mr. George Wright,male,62,0,0,26.55
+98ddb5b5-373d-4a0b-ad26-12b08ede2202,0,1,Lady. (Lucille Christiana Sutherland)Duff Gordon,female,48,1,0,39.6
+35ddf3c2-e03d-4978-8335-ed35f9bd091a,0,1,Mr. Victor Robbins,male,45,0,0,227.525
+7135dd9a-9e41-4b11-9516-8469d766c48e,0,1,Mrs. Emil (Tillie Mandelbaum) Taussig,female,39,1,1,79.65
+d5bc768a-292f-4f55-bb3c-fee981d065bb,0,3,Mrs. Guillaume Joseph (Emma) de Messemaeker,female,36,1,0,17.4
+28ce33dc-bb82-45a1-961c-5db788253681,1,3,Mr. Thomas Rowan Morrow,male,30,0,0,7.75
+bb8fd8d6-c4d4-425b-871c-2bc80098b269,0,3,Mr. Husein Sivic,male,40,0,0,7.8958
+329dbd71-a591-48a2-85dc-6000b3c99d01,1,2,Mr. Robert Douglas Norman,male,28,0,0,13.5
+6a93482e-ed24-499c-83b5-b69e8f2ecca4,0,3,Mr. John Simmons,male,40,0,0,8.05
+a9af266c-fafc-475e-adcc-7bde61e7e15d,0,3,Miss. (Marion Ogden) Meanwell,female,62,0,0,8.05
+5d28182a-33cd-4a65-931c-34b5cd19a757,0,3,Mr. Alfred J Davies,male,24,2,0,24.15
+7e232d40-285e-40ff-a250-bff9ef367834,0,3,Mr. Ilia Stoytcheff,male,19,0,0,7.8958
+238da7ad-c835-45a2-aeba-fb76ed1793e7,1,3,Mrs. Nils (Alma Cornelia Berglund) Palsson,female,29,0,4,21.075
+f72cf526-6811-4ff2-bc67-9aa6be9ef33b,0,3,Mr. Tannous Doharr,male,28,0,0,7.2292
+d3f477df-5e65-4a42-b0bd-0f6b28ea41c4,1,3,Mr. Carl Jonsson,male,32,0,0,7.8542
+82455c71-b7d6-4d5c-98d5-3fe1d0908e53,0,2,Mr. George Harris,male,62,0,0,10.5
+1850bd30-7bf4-4fd0-b4d2-adcddeb2bf51,0,1,Mrs. Edward Dale (Charlotte Lamson) Appleton,female,53,2,0,51.4792
+e5dc2689-a5ad-4ee0-9cd3-ef78f9d9d3e8,0,1,Mr. John Irwin Flynn,male,36,0,0,26.3875
+d617db40-a49f-404e-bb63-a055f22e8fb6,0,3,Miss. Mary Kelly,female,22,0,0,7.75
+9cad9a05-73e8-4f45-ab02-a89e9c1f3414,1,3,Mr. Alfred George John Rush,male,16,0,0,8.05
+d0aa5f99-841e-4069-9add-f13c551841e2,0,3,Mr. George Patchett,male,19,0,0,14.5
+8f754e26-0eff-4d25-b3c4-ff145f7772c7,1,2,Miss. Ethel Garside,female,34,0,0,13
+29ceaa4c-3331-4e48-b3a7-faae524868d8,0,1,Mrs. William Baird (Alice Munger) Silvey,female,39,1,0,55.9
+863b93f9-7f8d-4f76-a7a6-93bfb4cf520b,0,3,Mrs. Joseph (Maria Elias) Caram,female,18,1,0,14.4583
+23c74263-d3ba-417e-9484-a25666ae93a8,0,3,Mr. Eiriik Jussila,male,32,0,0,7.925
+f072f3ec-c2a0-47c4-9165-b267c5936bf3,0,2,Miss. Julie Rachel Christy,female,25,1,1,30
+fea4ce50-b2a2-4e4b-ad06-6d26b57b1242,1,1,Mrs. John Borland (Marian Longstreth Morris) Thayer,female,39,1,1,110.8833
+6e5158f4-880c-4a23-b6df-b62408e6c4ec,0,2,Mr. William James Downton,male,54,0,0,26
+710cf55b-b013-4e23-b9d3-b30c69a92852,1,1,Mr. John Hugo Ross,male,36,0,0,40.125
+d9508ead-4c01-49b3-ab1f-592327044e8d,0,3,Mr. Uscher Paulner,male,16,0,0,8.7125
+b4b2b853-2feb-442b-8aec-630f7660430b,0,1,Miss. Ruth Taussig,female,18,0,2,79.65
+5139ed09-4c1a-43ec-9b4b-adfee62a1e24,0,2,Mr. John Denzil Jarvis,male,47,0,0,15
+dc0772dd-15a0-4a0a-a68d-c7d2a848bd3a,0,1,Mr. Maxmillian Frolicher-Stehli,male,60,1,1,79.2
+c1ee9df8-66a5-4f8a-8771-81fee6eb3c44,1,3,Mr. Eliezer Gilinski,male,22,0,0,8.05
+c845e637-aeb8-4d1d-8ef9-fdbbd2b7a34d,0,3,Mr. Joseph Murdlin,male,22,0,0,8.05
+828d6d97-e8ae-4f69-9a77-dbef141c04bc,1,3,Mr. Matti Rintamaki,male,35,0,0,7.125
+a218cc94-2edc-42a7-834a-56b578ad9cf6,0,1,Mrs. Walter Bertram (Martha Eustis) Stephenson,female,52,1,0,78.2667
+8fb8f779-b94b-4f64-85d0-472d8f521852,0,3,Mr. William James Elsbury,male,47,0,0,7.25
+9183ebd9-3bb4-4cd1-ad45-2c71fc39a69b,0,3,Miss. Mary Bourke,female,40,0,2,7.75
+e7ad192a-bb8b-4fa0-b1fb-52f909ac4af1,0,2,Mr. John Henry Chapman,male,37,1,0,26
+f5e95bf6-01eb-4d4b-9b6f-b65d98eabc51,1,3,Mr. Jean Baptiste Van Impe,male,36,1,1,24.15
+a0961075-96f0-4f99-a1af-f3f52d32819a,0,2,Miss. Jessie Wills Leitch,female,31,0,0,33
+8c4aaa35-fcc9-47ec-84ea-e63a27a56319,1,3,Mr. Alfred Johnson,male,49,0,0,0
+8608b44b-7533-4941-8055-f52a86e2995b,0,3,Mr. Hanna Boulos,male,18,0,0,7.225
+6d7d9871-7a37-4231-a410-e3bbb65dd2f2,0,1,Sir. Cosmo Edmund Duff Gordon,male,49,1,0,56.9292
+e64ef61a-fed6-4faa-9c2b-67692d16b8ea,0,2,Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn,female,24,2,1,27
+9ff400b0-b791-4514-8db6-612cd027bd68,0,3,Mr. Petco Slabenoff,male,42,0,0,7.8958
+b30ce730-b70b-4c52-a7cb-3986c507d56d,1,1,Mr. Charles H Harrington,male,37,0,0,42.4
+28334ece-ad58-4cc5-9f36-f5b8beca8e6d,0,3,Mr. Ernst William Torber,male,44,0,0,8.05
+97fbd4d6-8e7c-411f-bee3-2d6a3a710369,1,1,Mr. Harry Homer,male,35,0,0,26.55
+c61999cb-3534-47f0-8118-4faca87b7dbf,0,3,Mr. Edvard Bengtsson Lindell,male,36,1,0,15.55
+ba071914-d05f-4030-a481-a6064c987743,0,3,Mr. Milan Karaic,male,30,0,0,7.8958
+165c0af6-2188-485d-9a4d-11630bfa09a2,0,1,Mr. Robert Williams Daniel,male,27,0,0,30.5
+cb1b5dc9-022c-4e46-98e2-d911cded543d,0,2,Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche,female,22,1,2,41.5792
+e07188d1-c682-4545-a9b1-3c548babc801,1,1,Miss. Elizabeth W Shutes,female,40,0,0,153.4625
+71cacb23-9b13-4c13-a7f9-e90b67c29fd8,0,3,Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson,female,39,1,5,31.275
+eac5d723-f260-4527-8ee1-b01b487b58f2,1,3,Mr. Jose Neto Jardin,male,21,0,0,7.05
+9009bad4-33ab-4f84-8571-664debdd41ed,0,3,Miss. Margaret Jane Murphy,female,18,1,0,15.5
+69960ae8-4e43-4fa3-9a39-4fae54bbb5a9,0,3,Mr. John Horgan,male,22,0,0,7.75
+9ea7386e-2532-4c33-aebb-446f1428d441,0,3,Mr. William Alfred Brocklebank,male,35,0,0,8.05
+317a64f4-9664-4253-aacc-ae8ce47384b0,0,2,Miss. Alice Herman,female,24,1,2,65
+0b828f58-1203-4ca9-8440-9861ec8e7c54,1,3,Mr. Ernst Gilbert Danbom,male,34,1,1,14.4
+33ede54a-4b77-4022-9ab3-c2fc433f9d48,0,3,Mrs. William Arthur (Cordelia K Stanlick) Lobb,female,26,1,0,16.1
+7bb4cf74-2412-4068-a262-8c8631b83dbc,1,2,Miss. Marion Louise Becker,female,4,2,1,39
+80b73c67-0148-4900-9cfa-65eb4a54fc69,0,2,Mr. Lawrence Gavey,male,26,0,0,10.5
+4838ac56-748a-44b5-9aeb-6267eb7a2fa7,0,3,Mr. Antoni Yasbeck,male,27,1,0,14.4542
+3e3ee680-a44d-4cb3-9e93-68da50e7c24c,0,1,Mr. Edwin Nelson Jr Kimball,male,42,1,0,52.5542
+493d4fd9-846d-4a2e-a64c-5c75f8d50082,0,3,Mr. Sahid Nakid,male,20,1,1,15.7417
+ac4e85d5-fe26-49d9-b760-90ebb2502517,1,3,Mr. Henry Damsgaard Hansen,male,21,0,0,7.8542
+6bc64b79-f9f5-48bd-9d56-0bb5b5b13daf,0,3,Mr. David John Bowen,male,21,0,0,16.1
+47176ce2-ba77-4722-8645-8e379c43bb7f,1,1,Mr. Frederick Sutton,male,61,0,0,32.3208
+ecc3d698-d3f2-463c-90a2-3d12b95f24c8,0,2,Rev. Charles Leonard Kirkland,male,57,0,0,12.35
+b6e17e81-275e-437c-8da4-623db9ca5621,0,1,Miss. Gretchen Fiske Longley,female,21,0,0,77.9583
+2b42f11b-8db0-4a05-8c1b-f50c6cce235d,0,3,Mr. Guentcho Bostandyeff,male,26,0,0,7.8958
+ac231be6-1802-4d17-ba87-4fbb3f23c3e3,0,3,Mr. Patrick D O'Connell,male,18,0,0,7.7333
+e1a79478-1847-4885-9e23-5d51be4a42d4,1,1,Mr. Algernon Henry Wilson Barkworth,male,80,0,0,30
+b847d99c-3e9d-47c5-bda1-759d7a93479c,0,3,Mr. Johan Svensson Lundahl,male,51,0,0,7.0542
+12a26747-5eec-4433-bafe-97a7c8cbaca1,1,1,Dr. Max Stahelin-Maeglin,male,32,0,0,30.5
+3de75450-828f-4ebb-8fa9-cd9c8885ec2e,0,1,Mr. William Henry Marsh Parr,male,30,0,0,0
+2a8b1c36-d594-4ffe-b195-43c2d47d6c5c,0,3,Miss. Mabel Skoog,female,9,3,2,27.9
+0b492a5a-3d92-4aab-9257-2b4b6d6a3076,0,2,Miss. Mary Davis,female,28,0,0,13
+bd061fdd-d07d-4e8f-8251-ab33d340e09a,0,3,Mr. Antti Gustaf Leinonen,male,32,0,0,7.925
+a0c6622a-8bf8-4ff3-b9c1-d4d26114a3b0,1,2,Mr. Harvey Collyer,male,31,1,1,26.25
+60ccf128-a81b-47a7-a7b3-e102aa991b80,0,3,Mrs. Juha (Maria Emilia Ojala) Panula,female,41,0,5,39.6875
+7dc67bd0-aac7-4162-827b-5f4b9b1acfdf,0,3,Mr. Percival Thorneycroft,male,37,1,0,16.1
+54be4315-7783-44ee-a210-980d4d4bfa0a,1,3,Mr. Hans Peder Jensen,male,20,0,0,7.8542
+b69fedaa-8350-49d0-84c3-43c17eaac617,0,1,Mlle. Emma Sagesser,female,24,0,0,69.3
+3d723a84-c05f-47dc-994c-3ab3bbef71e3,0,3,Miss. Margit Elizabeth Skoog,female,2,3,2,27.9
+097b5103-f13a-4c12-a6eb-ce4638e972d2,0,3,Mr. Choong Foo,male,32,0,0,56.4958
+6a31f521-324b-4e5e-92af-2f9bdcbb7751,0,3,Miss. Eugenie Baclini,female,0.75,2,1,19.2583
+e37bc117-82b7-4685-8284-001f65540095,1,1,Mr. Henry Sleeper Harper,male,48,1,0,76.7292
+8790abfe-6ff9-4120-9318-8158a30ef957,0,3,Mr. Liudevit Cor,male,19,0,0,7.8958
+8f7e8275-5adc-4c49-a65c-7d952dcc38a5,1,1,Col. Oberst Alfons Simonius-Blumer,male,56,0,0,35.5
+4ff0259f-9678-423e-845d-71d36fc38a0e,0,3,Mr. Edward Willey,male,21,0,0,7.55
+e7e5dcd2-bf46-4400-8c49-d753fa068c26,0,3,Miss. Amy Zillah Elsie Stanley,female,23,0,0,7.55
+419154a2-c2df-495d-b7f7-a7d6060cb310,0,3,Mr. Mito Mitkoff,male,23,0,0,7.8958
+470d8618-ed0f-4b9e-9821-c76be4cf4cda,0,2,Miss. Elsie Doling,female,18,0,1,23
+925bb103-f8ad-401d-aebc-73d72ae1d3c1,1,3,Mr. Johannes Halvorsen Kalvik,male,21,0,0,8.4333
+e01d453c-c5a3-4ab8-bd06-cf5911108a56,0,3,Miss. Hanora O'Leary,female,16,0,0,7.8292
+9a385492-6b88-4299-8410-9c13a5938465,1,3,Miss. Hanora Hegarty,female,18,0,0,6.75
+ca303e75-88dc-47ab-a16a-27b0ac1312fb,0,2,Mr. Leonard Mark Hickman,male,24,2,0,73.5
+0f5d499f-73c7-487c-bab0-27b5778a0544,0,3,Mr. Alexander Radeff,male,27,0,0,7.8958
+996ddc53-a27e-45dc-a9db-d54720b96032,0,3,Mrs. John (Catherine) Bourke,female,32,1,1,15.5
+a566f1f5-17b5-4cad-9137-f046ffacf918,0,2,Mr. George Floyd Eitemiller,male,23,0,0,13
+631e43d0-6b64-4e2b-8d69-fcd2728b10c1,1,1,Mr. Arthur Webster Newell,male,58,0,2,113.275
+ebe7cfdb-cab7-4288-8701-3978f06bbcd8,0,1,Dr. Henry William Frauenthal,male,50,2,0,133.65
+52b2348a-6263-4bd3-b36b-e86d3b1e93e5,1,3,Mr. Mohamed Badt,male,40,0,0,7.225
+fc6a4be2-ea36-48f3-b2d8-aa2e2b4e209e,0,1,Mr. Edward Pomeroy Colley,male,47,0,0,25.5875
+43b56b82-fc3d-4239-bc1c-a1cfdc453dfc,0,3,Mr. Peju Coleff,male,36,0,0,7.4958
+a58181b0-82c0-4ed1-bd29-a4310fd80fa2,0,3,Mr. Eino William Lindqvist,male,20,1,0,7.925
+362b8c8d-94f8-4c64-b87e-58630ede5d63,0,2,Mr. Lewis Hickman,male,32,2,0,73.5
+a4c8183b-6f83-471d-9c55-dc1ca1a8fc1f,1,2,Mr. Reginald Fenton Butler,male,25,0,0,13
+4e81ab01-f377-4ad8-a0fe-cc10995569a8,0,3,Mr. Knud Paust Rommetvedt,male,49,0,0,7.775
+4cf47841-278c-473a-a780-c6fb4f8fcadb,1,3,Mr. Jacob Cook,male,43,0,0,8.05
+3bd1690b-53b9-46a7-8652-f37cdd65fcf0,0,1,Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor,female,48,1,0,52
+bc09da66-d817-4769-a619-b089784184e8,0,2,Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown,female,40,1,1,39
+153997c0-0c85-476f-aebf-c0641a326fc8,0,1,Mr. Thornton Davidson,male,31,1,0,52
+38954625-d1f9-4bab-9581-f5b93e6cb884,0,2,Mr. Henry Michael Mitchell,male,70,0,0,10.5
+ee6925dd-a23c-4abb-885d-658fc10c0665,1,2,Mr. Charles Wilhelms,male,31,0,0,13
+a86a5219-f600-4a18-9b40-f7c82d1910a9,0,2,Mr. Ennis Hastings Watson,male,19,0,0,0
+162f1419-e25c-4e54-9993-18dad2166a39,1,3,Mr. Gustaf Hjalmar Edvardsson,male,18,0,0,7.775
+98ae1e86-b706-4484-b3b5-e1e9c18826b3,0,3,Mr. Frederick Charles Sawyer,male,24.5,0,0,8.05
+4e4b3068-1de5-4faf-b904-01e6747db7f2,0,3,Miss. Anna Sofia Turja,female,18,0,0,9.8417
+18fdc8ef-5b75-41c1-92bf-232bd5abf52b,0,3,Mrs. Frederick (Augusta Tyler) Goodwin,female,43,1,6,46.9
+48b5599f-4068-4105-8abf-27ea18705fdc,0,1,Mr. Thomas Drake Martinez Cardeza,male,36,0,1,512.3292
+1e05255c-ee4c-4a71-8485-951813854738,1,3,Miss. Katie Peters,female,28,0,0,8.1375
+4fdb9c90-8fe6-4bca-a771-e32b2795a2d7,0,1,Mr. Hammad Hassab,male,27,0,0,76.7292
+8a39be30-dbad-4786-bd2e-371a5bd3428f,1,3,Mr. Thor Anderson Olsvigen,male,20,0,0,9.225
+2f32b368-ec14-408a-972e-f5dc7ffc8d8e,0,3,Mr. Charles Edward Goodwin,male,14,5,2,46.9
+32144c86-5b1c-4e05-b82f-3753815c886b,0,2,Mr. Thomas William Solomon Brown,male,60,1,1,39
+1c474cd9-27e0-422e-911e-1db9f8c9ef01,0,2,Mr. Joseph Philippe Lemercier Laroche,male,25,1,2,41.5792
+171b7fac-800d-4df6-a013-10253c642968,0,3,Mr. Jaako Arnold Panula,male,14,4,1,39.6875
+ff644a36-ef28-4f40-b764-c5cea57a3b70,1,3,Mr. Branko Dakic,male,19,0,0,10.1708
+c5a2bad8-0146-495e-acd2-ececb4289ff3,0,3,Mr. Eberhard Thelander Fischer,male,18,0,0,7.7958
+c0ed7976-d47a-472b-a3ce-f612b6976e2b,1,1,Miss. Georgette Alexandra Madill,female,15,0,1,211.3375
+cf6fe891-9d6d-4fac-8c2d-9c10b77ab16a,0,1,Mr. Albert Adrian Dick,male,31,1,0,57
+f3262961-4a8e-461b-9692-9b294a0eed53,0,3,Miss. Manca Karun,female,4,0,1,13.4167
+bc4eb899-04c2-4a87-a1a8-722a93729c73,0,3,Mr. Ali Lam,male,37,0,0,56.4958
+bd28ee42-a5a9-4331-a4ff-2b763e340381,0,3,Mr. Khalil Saad,male,25,0,0,7.225
+371aa8c2-e692-4d0d-b0dd-a52a08bc5af3,1,1,Col. John Weir,male,60,0,0,26.55
+b65f49cf-f51d-4cec-a8a9-1f4444f356f7,0,2,Mr. Charles Henry Chapman,male,52,0,0,13.5
+22536cbb-38e8-457f-a7e0-08e5e1c558e9,1,3,Mr. James Kelly,male,44,0,0,8.05
+9ec59adc-4822-44f8-9f8b-65ed277da9d3,0,3,Miss. Katherine Mullens,female,19,0,0,7.7333
+be344bec-d0ed-4601-b6f8-f7e1faf0e9ab,0,1,Mr. John Borland Thayer,male,49,1,1,110.8833
+860ff595-e83c-4757-8485-b65ae6f2ebd5,0,3,Mr. Adolf Mathias Nicolai Olsen Humblen,male,42,0,0,7.65
+ba37beac-d91e-46a7-9a2f-9ed0666ab936,0,1,Mrs. John Jacob (Madeleine Talmadge Force) Astor,female,18,1,0,227.525
+6d101b09-eee0-4305-a4d5-f2c79532307a,1,1,Mr. Spencer Victor Silverthorne,male,35,0,0,26.2875
+2e49f7b5-3ce2-4b6d-ac82-a7a512597c50,0,3,Miss. Saiide Barbara,female,18,0,1,14.4542
+c666b315-8407-4773-9d8e-ca923f541cca,1,3,Mr. Martin Gallagher,male,25,0,0,7.7417
+50a6fdda-7004-4e65-b25d-9f970e3c0e7b,0,3,Mr. Henrik Juul Hansen,male,26,1,0,7.8542
+8686d059-e69e-4959-b803-85e5d3071af8,0,2,Mr. Henry Samuel Morley,male,39,0,0,26
+9a1bc403-017a-42c2-860f-ba88aca1f36f,0,2,Mrs. Florence Kelly,female,45,0,0,13.5
+a8d6feac-e6cc-4274-8c3a-c6486b263f2f,0,1,Mr. Edward Pennington Calderhead,male,42,0,0,26.2875
+899940de-5128-4040-b580-3a8a37cdc6ec,1,1,Miss. Alice Cleaver,female,22,0,0,151.55
+db2041b7-1bf0-489c-ba18-77df6c621f14,0,3,Master. Halim Gonios Moubarek,male,4,1,1,15.2458
+c06a6be0-f3c4-46cf-b7bf-550f54fe109c,1,1,Mlle. Berthe Antonine Mayne,female,24,0,0,49.5042
+4caf4ca8-a81d-4826-989c-d07f7250deb7,0,1,Mr. Herman Klaber,male,41,0,0,26.55
+63890ea6-9d9b-447e-a273-34ddc98b0441,0,1,Mr. Elmer Zebley Taylor,male,48,1,0,52
+d8d1e6a7-d036-4a88-b800-a4eaa997cf1b,0,3,Mr. August Viktor Larsson,male,29,0,0,9.4833
+4593a244-3f91-4cd4-933c-a9aeb8793540,0,2,Mr. Samuel Greenberg,male,52,0,0,13
+9f6da499-cc46-4b66-bc6f-754b43a5627e,1,3,Mr. Peter Andreas Lauritz Andersen Soholt,male,19,0,0,7.65
+d3f74408-7b6c-4cbf-ba65-5be84fbffe23,0,1,Miss. Caroline Louise Endres,female,38,0,0,227.525
+83e48a1d-7e62-415b-a647-fee155711573,1,2,Miss. Edwina Celia Troutt,female,27,0,0,10.5
+8b943ca7-cc01-452f-a8dc-beb2704c4b38,0,3,Mr. Malkolm Joackim Johnson,male,33,0,0,7.775
+fd90d7cf-39a6-4c8c-861f-434ae50882d1,0,2,Miss. Annie Jessie Harper,female,6,0,1,33
+f4ab1a82-f67c-40be-a171-7d520f3d99ee,0,3,Mr. Svend Lauritz Jensen,male,17,1,0,7.0542
+dca824e8-b20f-4985-bdde-3fb36ab9feab,0,2,Mr. William Henry Gillespie,male,34,0,0,13
+7e83c7db-505b-45a0-80ec-1616dad89408,1,2,Mr. Henry Price Hodges,male,50,0,0,13
+87ffc19a-9137-44d0-bd1e-7f7f8bc0af8d,0,1,Mr. Norman Campbell Chambers,male,27,1,0,53.1
+178ca9b2-cb1d-4a22-b7cc-20c4137418e5,0,3,Mr. Luka Oreskovic,male,20,0,0,8.6625
+537c8aaf-d7ae-442d-8e2e-d0918f93d212,1,2,Mrs. Peter Henry (Lillian Jefferys) Renouf,female,30,3,0,21
+7ac9513a-121a-41fd-aa21-9a975dd513fc,0,3,Miss. Margareth Mannion,female,28,0,0,7.7375
+b4017a36-c0a4-4367-b2d4-5ddc55c22400,0,2,Mr. Kurt Arnold Gottfrid Bryhl,male,25,1,0,26
+7f7f359a-2cb6-4d5b-8bda-a78c05839632,0,3,Miss. Pieta Sofia Ilmakangas,female,25,1,0,7.925
+02346636-bffe-4104-a717-972fb4974155,0,1,Miss. Elisabeth Walton Allen,female,29,0,0,211.3375
+693ade94-2d87-4d46-a760-e3a796a5075c,1,3,Mr. Houssein G N Hassan,male,11,0,0,18.7875
+1262c610-e87a-4da1-8767-75dff89ae3c7,0,2,Mr. Robert J Knight,male,41,0,0,0
+af2aec0c-314a-449b-af9e-c14f1aa2432a,1,2,Mr. William John Berriman,male,23,0,0,13
+49d00489-9782-4a75-8133-9bcf25e4ece3,0,2,Mr. Moses Aaron Troupiansky,male,23,0,0,13
+a2437336-d9ce-4495-b64d-252f387826bd,0,3,Mr. Leslie Williams,male,28.5,0,0,16.1
+d7fc035b-8c24-42d0-9f25-456b06b305c1,0,3,Mrs. Edward (Margaret Ann Watson) Ford,female,48,1,3,34.375
+57314847-6827-451a-8636-6dd90cd08427,0,1,Mr. Gustave J Lesurer,male,35,0,0,512.3292
+27e71280-2dc7-4d8a-b01c-c4979cc22182,1,3,Mr. Kanio Ivanoff,male,20,0,0,7.8958
+b4e76157-efe2-414f-ba20-189fc030025f,0,3,Mr. Minko Nankoff,male,32,0,0,7.8958
+eee31edb-e0f4-4850-ad24-2cc50409d1ec,1,1,Mr. Walter James Hawksford,male,45,0,0,30
+1ab94c55-861b-4027-8dba-5ce393ad3f9a,0,1,Mr. Tyrell William Cavendish,male,36,1,0,78.85
+4504a267-55b9-4b31-bf4a-316de426f7e6,0,1,Miss. Susan Parker Ryerson,female,21,2,2,262.375
+91196113-158f-4b76-8db3-e3f6fbf7a602,0,3,Mr. Neal McNamee,male,24,1,0,16.1
+725fa6fe-119e-40dc-87d5-bf7a43daf49e,0,3,Mr. Juho Stranden,male,31,0,0,7.925
+24b06e95-23ca-4d42-8196-cf1850bca8d9,1,1,Capt. Edward Gifford Crosby,male,70,1,1,71
+5a31b1a6-8ae5-4c78-974c-dcb088fccd7e,0,3,Mr. Rossmore Edward Abbott,male,16,1,1,20.25
+28f25f05-1103-4f83-8b21-8db835f0423d,1,2,Miss. Anna Sinkkonen,female,30,0,0,13
+3bca2506-7e35-4f5e-998d-c2a4965dfa5b,0,1,Mr. Daniel Warner Marvin,male,19,1,0,53.1
+179c7c8b-f6e2-4565-8f8f-001c13987f86,0,3,Mr. Michael Connaghton,male,31,0,0,7.75
+0b9415f1-b333-4c7c-8900-d1f95b0b9758,0,2,Miss. Joan Wells,female,4,1,1,23
+5a637a6e-83d3-47e9-b9fd-d2a4075bc205,0,3,Master. Meier Moor,male,6,0,1,12.475
+c879b02a-47eb-4d57-8b9e-d35b3b89b5a1,1,3,Mr. Johannes Joseph Vande Velde,male,33,0,0,9.5
+a5ee0db3-1fa0-4070-84e3-3b8ab51ceea8,0,3,Mr. Lalio Jonkoff,male,23,0,0,7.8958
+41435a8b-54ff-42af-a128-9b1ecae6dbcd,1,2,Mrs. Samuel (Jane Laver) Herman,female,48,1,2,65
+7c1184f8-51be-40c6-9977-d73e69c45587,0,2,Master. Viljo Hamalainen,male,0.67,1,1,14.5
+074d85db-d6ce-4ea5-b572-81d9c2b75d6d,0,3,Mr. August Sigfrid Carlsson,male,28,0,0,7.7958
+6cdbb354-d55c-47df-8c92-bcb87ecddd81,0,2,Mr. Percy Andrew Bailey,male,18,0,0,11.5
+d815689d-7ff9-4d50-bf61-9de756c268d6,0,3,Mr. Thomas Leonard Theobald,male,34,0,0,8.05
+5709889e-8569-4ffd-817d-8c1ee7dd749b,1,1,the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes,female,33,0,0,86.5
+c486c30c-c8c0-4c8a-a562-bcff0f3e2662,0,3,Mr. John Garfirth,male,23,0,0,14.5
+d331e9e4-18b1-4355-b38d-e520030d0bea,1,3,Mr. Iisakki Antino Aijo Nirva,male,41,0,0,7.125
+4a596a73-3346-4609-bc80-928f0d9a1dec,0,3,Mr. Hanna Assi Barah,male,20,0,0,7.2292
+434dafc6-98dd-4c50-8644-a387ab905d96,0,1,Mrs. William Ernest (Lucile Polk) Carter,female,36,1,2,120
+89e4bbb4-9e46-4470-b200-9958076759e6,0,3,Mr. Hans Linus Eklund,male,16,0,0,7.775
+cb0e1cb8-8903-4d94-8e04-be6dfeea45aa,0,1,Mrs. John C (Anna Andrews) Hogeboom,female,51,1,0,77.9583
+b7a55760-eded-4845-b136-88acbb6bde6d,1,1,Dr. Arthur Jackson Brewe,male,46,0,0,39.6
+92ec0dc4-2628-4fe2-b2cd-c74285297646,0,3,Miss. Mary Mangan,female,30.5,0,0,7.75
+3fa20c3f-3904-4009-a91f-a4b859710b45,1,3,Mr. Daniel J Moran,male,28,1,0,24.15
+6353a78d-7da6-4f65-a50c-07bba56c9f53,0,3,Mr. Daniel Danielsen Gronnestad,male,32,0,0,8.3625
+e08ed1b4-cb63-4c9d-bd28-0cda8b5bf740,0,3,Mr. Rene Aime Lievens,male,24,0,0,9.5
+b2084a3a-3684-4671-8e20-f184eb77442d,0,3,Mr. Niels Peder Jensen,male,48,0,0,7.8542
+ee2dc511-3a92-47dd-ae7a-bbca69ebb790,0,2,Mrs. (Mary) Mack,female,57,0,0,10.5
+127e1c80-4e13-40a6-bd83-8232f7a12ef1,1,3,Mr. Dibo Elias,male,29,0,0,7.225
+91f76823-88c4-4197-82fd-c7c5fff35520,0,2,Mrs. Elizabeth (Eliza Needs) Hocking,female,54,1,3,23
+736497d1-ec85-4d2d-ac1a-84a1a3795d3b,1,3,Mr. Pehr Fabian Oliver Malkolm Myhrman,male,18,0,0,7.75
+028eed35-531a-44d0-9298-5a7da0033690,0,3,Mr. Roger Tobin,male,20,0,0,7.75
+b120fa94-5825-4ad1-b757-0263446e57c3,0,3,Miss. Virginia Ethel Emanuel,female,5,0,0,12.475
+5245e604-be5e-4c50-936a-2f300a62c170,0,3,Mr. Thomas J Kilgannon,male,22,0,0,7.7375
+d05ee558-960e-41fb-9965-c2522eebf4ae,0,1,Mrs. Edward Scott (Elisabeth Walton McMillan) Robert,female,43,0,1,211.3375
+d9a906fc-f8fb-41f6-b986-dc539b2e460e,1,3,Miss. Banoura Ayoub,female,13,0,0,7.2292
+0af67259-a15e-4234-9ba3-a4e32af64e0d,0,1,Mrs. Albert Adrian (Vera Gillespie) Dick,female,17,1,0,57
+b68df406-82a2-45f4-a12f-d428e407dfea,1,1,Mr. Milton Clyde Long,male,29,0,0,30
+2804cb30-cc54-4a51-a59a-06c1f2f8d76f,0,3,Mr. Andrew G Johnston,male,35,1,2,23.45
+af303628-604b-46b2-b65a-beb9c0a2205e,0,3,Mr. William Ali,male,25,0,0,7.05
+e0b27a8d-279a-4160-92d8-1bc3835c1bd4,0,3,Mr. Abraham (David Lishin) Harmer,male,25,0,0,7.25
+f824a4e9-e280-44ba-9400-11a85614e880,0,3,Miss. Anna Sofia Sjoblom,female,18,0,0,7.4958
+db8e3834-42de-41e6-a758-b40fd8f3574e,1,3,Master. George Hugh Rice,male,8,4,1,29.125
+f38a2895-5aa6-460b-9d00-3f79df676185,0,3,Master. Bertram Vere Dean,male,1,1,2,20.575
+8e382b51-684b-447f-a94c-373d21a37579,1,1,Mr. Benjamin Guggenheim,male,46,0,0,79.2
+001b7a42-ea8c-44e5-b92b-97049f6ca906,0,3,Mr. Andrew Keane,male,20,0,0,7.75
+63bc18f5-b738-4b21-985f-b40eef830ec4,0,2,Mr. Alfred Gaskell,male,16,0,0,26
+92f71076-3c08-4c18-8ecb-137476897e85,0,3,Miss. Stella Anna Sage,female,21,8,2,69.55
+3bd9eef5-d654-43fb-bcfc-6ca7878f202e,0,1,Mr. William Fisher Hoyt,male,43,0,0,30.6958
+ed553e3d-4fd6-431d-970a-cde128e8af60,1,3,Mr. Ristiu Dantcheff,male,25,0,0,7.8958
+82abf0fe-be10-478c-a773-16170266da85,0,2,Mr. Richard Otter,male,39,0,0,13
+e9a5af75-ae3e-44e5-b4f2-e306cd8094ad,1,1,Dr. Alice (Farnham) Leader,female,49,0,0,25.9292
+62a06e40-6adb-4ecc-b421-8d1480c37ad6,0,3,Mrs. Mara Osman,female,31,0,0,8.6833
+8dfe12eb-49a3-419b-b065-a9eebf32af75,0,3,Mr. Yousseff Ibrahim Shawah,male,30,0,0,7.2292
+19ac531e-091b-4611-b75a-14f16dc7826e,0,3,Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe,female,30,1,1,24.15
+db8358e5-7b8f-4642-99d9-70d67a0a97c0,0,2,Mr. Martin Ponesell,male,34,0,0,13
+8219f4c9-99ff-439a-bbf0-8b3c4046b444,1,2,Mrs. Harvey (Charlotte Annie Tate) Collyer,female,31,1,1,26.25
+fde4bae6-ae1a-4aab-996b-f0df56c1932e,0,1,Master. William Thornton II Carter,male,11,1,2,120
+298ad8c5-d8ae-4884-988e-8c90fcc910ca,1,3,Master. Assad Alexander Thomas,male,0.42,0,1,8.5167
+0c75751b-fb37-4665-a6d1-8051c399f6ae,0,3,Mr. Oskar Arvid Hedman,male,27,0,0,6.975
+6b1b0505-b786-4d08-9b75-4d274c2dbb84,0,3,Mr. Karl Johan Johansson,male,31,0,0,7.775
+a67b3955-ef38-4174-8cd9-624339c4525e,0,1,Mr. Thomas Jr Andrews,male,39,0,0,0
+2866688b-c31a-40ba-93f8-f8b9d4bd0362,0,3,Miss. Ellen Natalia Pettersson,female,18,0,0,7.775
+fa347ca9-6161-4ad2-8b9c-ea5b988efcd4,1,2,Mr. August Meyer,male,39,0,0,13
+50de95a3-4db7-4cd8-8001-6ff3cc1e48c4,0,1,Mrs. Norman Campbell (Bertha Griggs) Chambers,female,33,1,0,53.1
+e5fd1821-fd26-45f4-ab1a-5d97fafec213,0,3,Mr. William Alexander,male,26,0,0,7.8875
+b1417516-f504-43d0-b3d1-1b7d99dcfdf6,1,3,Mr. James Lester,male,39,0,0,24.15
+c902e8af-aac4-4649-acad-b1bc58663bbb,0,2,Mr. Richard James Slemen,male,35,0,0,10.5
+1f307a6b-27ca-4627-b3f1-a86f71e0d937,0,3,Miss. Ebba Iris Alfrida Andersson,female,6,4,2,31.275
+0103f581-112c-471d-9be1-310df0788a00,0,3,Mr. Ernest Portage Tomlin,male,30.5,0,0,8.05
+2ef900bb-cfc5-4902-84ac-87bfd5fbb066,0,1,Mr. Richard Fry,male,39,0,0,0
+f86d0c4f-6555-4826-b162-94e6fee982ce,1,3,Miss. Wendla Maria Heininen,female,23,0,0,7.925
+61a11e46-a86b-4936-aaa6-43ef2929e5b3,0,2,Mr. Albert Mallet,male,31,1,1,37.0042
+35bf640d-118c-4ea6-ab71-1569581854e4,1,3,Mr. John Fredrik Alexander Holm,male,43,0,0,6.45
+dd482c76-d345-4706-b552-a2d04e26425c,0,3,Master. Karl Thorsten Skoog,male,10,3,2,27.9
+7c12cf0d-ea88-4ab0-9f8c-0419774f8b85,0,1,Mrs. Charles Melville (Clara Jennings Gregg) Hays,female,52,1,1,93.5
+f82fff8f-14e1-41cc-adab-99eb6751dcb7,0,3,Mr. Nikola Lulic,male,27,0,0,8.6625
+56b713e3-6867-498d-b95f-ebd6da7fc738,0,1,Jonkheer. John George Reuchlin,male,38,0,0,0
+6296f8ac-d883-4ff8-be42-af17cb963d75,1,3,Mrs. (Beila) Moor,female,27,0,1,12.475
+057bb5e8-c7c3-401a-a1ae-b7f29f374605,0,3,Master. Urho Abraham Panula,male,2,4,1,39.6875
+0c5c1471-cd4d-40a2-affd-15ce58e0c8d2,1,3,Mr. John Flynn,male,36,0,0,6.95
+110c4d01-d65a-4b16-b208-7a6ef152efbf,0,3,Mr. Len Lam,male,23,0,0,56.4958
+0198d6e8-c5e1-4a74-ace6-b9cde157ded0,0,2,Master. Andre Mallet,male,1,0,2,37.0042
+a7be2d68-c2d9-4ce4-a9db-1a3713d95841,0,3,Mr. Thomas Joseph McCormack,male,19,0,0,7.75
+25174d16-343d-4981-95ee-5569bd4879a8,0,1,Mrs. George Nelson (Martha Evelyn) Stone,female,62,0,0,80
+3ad1a865-2c2d-47f7-8a7e-09af0f61826c,1,3,Mrs. Antoni (Selini Alexander) Yasbeck,female,15,1,0,14.4542
+9897f4e4-21db-4427-8deb-808df04442db,0,2,Master. George Sibley Richards,male,0.83,1,1,18.75
+db75061c-ae13-45ce-b956-18c5e5b13cec,1,3,Mr. Amin Saad,male,30,0,0,7.2292
+df1d5d6b-ba66-44d2-a9a0-af1438e5293a,0,3,Mr. Albert Augustsson,male,23,0,0,7.8542
+a324b3be-591e-4b73-a989-e236f1dcdc94,0,3,Mr. Owen George Allum,male,18,0,0,8.3
+6002c92d-a897-410d-b7ff-fec6ba5ef0c2,0,1,Miss. Sara Rebecca Compton,female,39,1,1,83.1583
+62dacab7-35d0-4a99-b591-b5039cb0d25c,0,3,Mr. Jakob Pasic,male,21,0,0,8.6625
+cd122701-3ee5-4006-adf9-80bb46996e52,1,3,Mr. Maurice Sirota,male,20,0,0,8.05
+1f2ac6dd-8e80-4145-acdd-c635e4635f25,0,3,Mr. Chang Chip,male,32,0,0,56.4958
+d6564423-fa0c-4db9-981a-16ba39e63002,1,1,Mr. Pierre Marechal,male,29,0,0,29.7
+df9fd3c2-40a9-4b4c-9c9c-b18b84c33b06,0,3,Mr. Ilmari Rudolf Alhomaki,male,20,0,0,7.925
+e73cec9d-8219-4cfc-93bf-2a339c75b28a,0,2,Mr. Thomas Charles Mudd,male,16,0,0,10.5
+f688f2f1-1736-48ee-93b3-b7689e411c1c,0,1,Miss. Augusta Serepeca,female,30,0,0,31
+224ac813-17b6-4f16-b408-636b1ed0c6e4,0,3,Mr. Peter L Lemberopolous,male,34.5,0,0,6.4375
+d9f7aa2d-087b-49f1-baf5-84c4e8930536,1,3,Mr. Jeso Culumovic,male,17,0,0,8.6625
+71c05749-c687-429b-b951-bfcae2392464,0,3,Mr. Anthony Abbing,male,42,0,0,7.55
+2bd0fc6e-451e-4936-9e6e-d5eb080abe27,1,3,Mr. Douglas Bullen Sage,male,18,8,2,69.55
+a89b0f46-8f96-4081-a70f-2067fb6e9761,0,3,Mr. Marin Markoff,male,35,0,0,7.8958
+2d6a0274-bf8a-472f-b2c2-686e66d917ed,0,2,Rev. John Harper,male,28,0,1,33
+d9093648-9b06-49fd-9277-250dce810123,0,1,Mrs. Samuel L (Edwiga Grabowska) Goldenberg,female,40,1,0,89.1042
+a2710b24-4633-4ad9-85ef-6133966a52f9,0,3,Master. Sigvard Harald Elias Andersson,male,4,4,2,31.275
+97ad3f66-4318-4545-b473-189bb61ada49,1,3,Mr. Johan Svensson,male,74,0,0,7.775
+762ad21c-5b5f-4ec6-be95-e4e800a24760,0,3,Miss. Nourelain Boulos,female,9,1,1,15.2458
+1a765460-d6e0-4743-9463-56d2fdbbafc1,1,1,Miss. Mary Conover Lines,female,16,0,1,39.4
+a0cd8912-38aa-4413-960f-4befc96d893d,0,2,Mrs. Ernest Courtenay (Lilian Hughes) Carter,female,44,1,0,26
+5df0630f-169b-4079-8da7-8986865259f1,0,3,Mrs. Sam (Leah Rosen) Aks,female,18,0,1,9.35
+86b8982f-55b6-49c5-a005-660bce590028,0,1,Mrs. George Dennick (Mary Hitchcock) Wick,female,45,1,1,164.8667
+9b04653c-c4c9-458e-bc85-093e0d1d552f,0,1,Mr. Peter Denis Daly,male,51,0,0,26.55
+8e2cac66-0dc9-49d8-8615-cf48898fc61d,1,3,Mrs. Solomon (Latifa Qurban) Baclini,female,24,0,3,19.2583
+36f54e69-771e-44dd-a68c-40f2565755d0,0,3,Mr. Raihed Razi,male,30,0,0,7.2292
+79ab1c2f-e720-4b11-a3a9-04950e7cbca0,1,3,Mr. Claus Peter Hansen,male,41,2,0,14.1083
+7297aea7-a8da-4cae-889d-e573b4836b5b,0,2,Mr. Frederick Edward Giles,male,21,1,0,11.5
+52b0fc5a-7bf0-4568-b13e-eff9ce88ae6f,0,1,Mrs. Frederick Joel (Margaret Welles Barron) Swift,female,48,0,0,25.9292
+5dab4e2c-cd1a-46ef-b3e5-b5b5badf09ac,0,3,Miss. Dorothy Edith Sage,female,14,8,2,69.55
+65a08c9e-eb3a-487c-9285-d92845f6f80a,0,2,Mr. John William Gill,male,24,0,0,13
+0fcb8c82-8282-4307-b115-b9d959ad1292,1,2,Mrs. (Karolina) Bystrom,female,42,0,0,13
+73dae4dc-dbeb-4656-b6ee-47e466526f02,0,2,Miss. Asuncion Duran y More,female,27,1,0,13.8583
+79279129-587c-4b02-bc25-f116e0f7f767,1,1,Mr. Washington Augustus II Roebling,male,31,0,0,50.4958
+5a6bae56-71be-40a2-a457-c3402e30a130,0,3,Mr. Philemon van Melkebeke,male,23,0,0,9.5
+d11f22e8-ca4c-4131-a050-ec7438d966f5,0,3,Master. Harold Theodor Johnson,male,4,1,1,11.1333
+18270cb8-e48e-4600-913d-aa5a03743b8f,0,3,Mr. Cerin Balkic,male,26,0,0,7.8958
+4ac3a9f1-02ae-486a-9184-cc2d662365e0,0,1,Mrs. Richard Leonard (Sallie Monypeny) Beckwith,female,47,1,1,52.5542
+7f5daaff-41db-4d2c-b1f9-cd744712d67b,1,1,Mr. Frans Olof Carlsson,male,33,0,0,5
+0a0e25e7-93d3-4288-b34e-f690b15f5eea,0,3,Mr. Victor Vander Cruyssen,male,47,0,0,9
+1b3b13c9-1c50-4cef-b59a-5f1acef55227,1,2,Mrs. Samuel (Hannah Wizosky) Abelson,female,28,1,0,24
+c961a876-b357-4687-a059-4d2a27c8daee,0,3,Miss. Adele Kiamie Najib,female,15,0,0,7.225
+d35d5631-bb5b-4993-b7e6-8ed3511425e5,0,3,Mr. Alfred Ossian Gustafsson,male,20,0,0,9.8458
+06ea61ab-cc3d-47a7-96b0-2dee9c162af5,0,3,Mr. Nedelio Petroff,male,19,0,0,7.8958
+34648e6d-efbf-4672-85da-d9ef0112fd61,0,3,Mr. Kristo Laleff,male,23,0,0,7.8958
+1010fe94-cfa9-484b-8d2c-0f9df63b75b4,1,1,Mrs. Thomas Jr (Lily Alexenia Wilson) Potter,female,56,0,1,83.1583
+a5ebdb53-62b8-45dc-af23-399e513e643c,0,2,Mrs. William (Imanita Parrish Hall) Shelley,female,25,0,1,26
+1c737651-8131-42da-bfb3-31769b85f314,1,3,Mr. Johann Markun,male,33,0,0,7.8958
+b87872d3-1c95-443e-9e18-c3736a2f796b,0,3,Miss. Gerda Ulrika Dahlberg,female,22,0,0,10.5167
+11a8d4e7-c605-41cd-94a9-d1672a5fab07,0,2,Mr. Frederick James Banfield,male,28,0,0,10.5
+30cd0987-183a-47a7-a815-c97e14beb00d,0,3,Mr. Henry Jr Sutehall,male,25,0,0,7.05
+cec6d631-c8ac-4e3d-ab77-a1164d71b612,0,3,Mrs. William (Margaret Norton) Rice,female,39,0,5,29.125
+e085e0ab-a009-40bc-86ad-b2620a212fb5,1,2,Rev. Juozas Montvila,male,27,0,0,13
+aa331c23-b779-4e6f-8641-837825f3059b,0,1,Miss. Margaret Edith Graham,female,19,0,0,30
+097ec68b-2599-4f39-aa8d-8859c045d8c6,1,3,Miss. Catherine Helen Johnston,female,7,1,2,23.45
+fdfcb12e-5192-411c-87a9-e8a23756e17f,0,1,Mr. Karl Howell Behr,male,26,0,0,30
+507257ea-e33a-4de1-a392-def3296d51de,0,3,Mr. Patrick Dooley,male,32,0,0,7.75

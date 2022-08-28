@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: titanic-api-flask-service
+  labels:
+    service: titanic-api-flask-service
+spec:
+  selector:
+    app: titanic-api-flask
+  ports:
+  - port: 5000
+    targetPort: 5000

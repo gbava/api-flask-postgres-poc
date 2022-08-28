@@ -1,0 +1,53 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: titanic-api-flask
+  namespace: default
+  labels:
+    app: titanic-api-flask
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: titanic-api-flask
+  template:
+    metadata:
+      labels:
+        app: titanic-api-flask
+    spec:
+      containers:
+      - name: titanic-api-flask
+        image: gbava/titanic-api-flask:latest
+        imagePullPolicy: Always   # Only use this for development
+        env:
+        - name: POSTGRES_HOST
+          valueFrom:
+            configMapKeyRef:
+              name: postgres-config
+              key: postgres_host
+        - name: POSTGRES_PORT
+          valueFrom:
+            configMapKeyRef:
+              name: postgres-config
+              key: postgres_port
+        - name: POSTGRES_DB
+          valueFrom:
+            configMapKeyRef:
+              name: postgres-config
+              key: postgres_db
+        - name: PG_SERVICE_NAME
+          valueFrom:
+            configMapKeyRef:
+              name: postgres-config
+              key: postgres_k8s_service_name
+        - name: POSTGRES_USER
+          valueFrom:
+            secretKeyRef:
+              key: user
+              name: postgres-credentials
+        - name: POSTGRES_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              key: password
+              name: postgres-credentials
+      restartPolicy: Always

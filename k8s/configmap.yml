@@ -1,0 +1,13 @@
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: postgres-config
+  namespace: default
+  labels:
+    app: postgres
+data:
+  postgres_host: "localhost"
+  postgres_port: "5432"
+  postgres_db: "postgres"
+  postgres_k8s_service_name: "postgres-service"     # this is the name of the service defined in postgres-service.yml

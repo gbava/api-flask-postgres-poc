@@ -25,7 +25,7 @@ USER $USER
 
 # Install API dependencies
 RUN pip3 install --no-cache-dir psycopg2
-COPY requirements.txt run.py bootstrap.sh $HOME
+COPY requirements.txt run.py $HOME
 RUN pip3 install --no-cache-dir -r requirements.txt
 
 # Copy app code

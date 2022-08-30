@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: gitlab-gitops
+  namespace: default
+data:
+  key: It works!

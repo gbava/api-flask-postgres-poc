@@ -85,6 +85,23 @@ Will populate the DB with a modified version of [titanic.csv](https://gitlab.com
 
 # 3. Dockerize
 
+**Define environment variables in a file**
+
+Using environment variables is helpful because it ensures that the code is flexible. 
+
+Create `.env` file with the following variables:
+
+```
+POSTGRES_USER=your_username
+POSTGRES_PASSWORD=your_password
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=postgres
+FLASK_ENV=development
+PG_SERVICE_NAME=postgres-service
+APP_SETTINGS=src.config.Development
+```
+
 **Build image**
 
 *Use BuildKit feature*

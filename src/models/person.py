@@ -16,7 +16,7 @@ class Person(db.Model):
     passengerClass = db.Column(db.Integer)
     name = db.Column(db.String(255))
     sex = db.Column(db.String(6))
-    age = db.Column(db.Float)
+    age = db.Column(db.Integer)
     siblingsOrSpousesAboard = db.Column(db.Integer)
     parentsOrChildrenAboard = db.Column(db.Integer)
     fare = db.Column(db.Float)
